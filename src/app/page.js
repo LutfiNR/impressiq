@@ -1,24 +1,30 @@
-// src/app/page.tsx
 import React from 'react';
 import Link from 'next/link';
+import Button from '@/components/Button';
 
 const Home = () => {
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen bg-gray-100">
-      {/* Logo Section */}
-      <div className="mb-8">
+    <div className="flex flex-col items-center justify-between min-h-screen bg-gradient-to-b from-customblue to-custompurple">
+      {/* Header Section */}
+      <section className="p-4">
         <img
-          src="/favicon.ico" // Replace this with your logo image path
-          alt="Logo"
-          className="w-32 h-32" // Adjust the size as needed
+          src="/header.png" 
+          alt="Header Logo"
+          className="h-10 w-auto" 
         />
-      </div>
-      {/* Start Button */}
-      <Link href="/main">
-        <button className="px-6 py-3 text-white bg-blue-600 rounded-lg hover:bg-blue-700 transition duration-300">
-          Start
-        </button>
-      </Link>
+      </section>
+
+      {/* Main Content Section */}
+      <section className="flex flex-col items-center text-gray-100">
+        <img
+          src="/logo.png" 
+          alt="Main Logo"
+          className="h-64 w-auto"
+        />
+        <Link href="/main">
+          <Button variant='secondbutton' className='mt-12 mb-24 px-12'>Mulai</Button>
+        </Link>
+      </section>
     </div>
   );
 };

@@ -10,7 +10,20 @@ module.exports = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        customblue: "var(--customblue)",
+        custompurple: "var(--custompurple)",
       },
+      backgroundColor: {
+        "customblue": "var(--customblue)",
+        "custompurple": "var(--custompurple)",
+      },
+      backgroundImage: {
+        "gradient-linear": "linear-gradient(var(--tw-gradient-stops))",
+      },
+      borderColor:{
+        "customblue": "var(--customblue)",
+        "custompurple": "var(--custompurple)",
+      }
     },
   },
   plugins: [],
