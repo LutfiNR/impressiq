@@ -13,8 +13,9 @@ export default function RootLayout({ children }) {
       </head>
       <body
         className={`antialiased`}
-      >
+      ><Suspense fallback={<div>Loading...</div>}>
         {children}
+      </Suspense>
       </body>
     </html>
   );
