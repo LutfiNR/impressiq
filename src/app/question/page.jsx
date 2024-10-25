@@ -75,7 +75,7 @@ const getQuestionTypeLabel = (type) => {
 const QuestionCard = ({ question, questionIndex }) => (
   <div className="p-8 bg-slate-100 w-full rounded-lg shadow-md mb-4">
     <p className="text-xl font-semibold mb-4">Soal Nomor: {questionIndex + 1}</p>
-    <p className='text-2xl'>{question?.question}</p>
+    <p className='text-4xl'>{question?.question}</p>
   </div>
 );
 
