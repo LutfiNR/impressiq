@@ -34,6 +34,9 @@ const Question = () => {
   const handleBack = () => {
     router.back();
   };
+  const handleBackPack = () => {
+    router.push(`/quiz/${packId}`);
+  };
 
   useEffect(() => {
     if (currentQuestionIndex >= questions.length) {
@@ -53,7 +56,7 @@ const Question = () => {
       </h1>
       <div className='mt-12 w-full flex flex-col items-center'>
       <QuestionCard question={questions[currentQuestionIndex]} questionIndex={currentQuestionIndex} />
-      <div><ActionButtons onStartQuiz={handleStartQuiz} onBack={handleBack} /></div>
+      <div><ActionButtons onBackPack={handleBackPack} onStartQuiz={handleStartQuiz} onBack={handleBack} /></div>
       </div>
     </div>
   );
@@ -80,19 +83,26 @@ const QuestionCard = ({ question, questionIndex }) => (
 );
 
 // Component for action buttons
-const ActionButtons = ({ onStartQuiz, onBack }) => (
+const ActionButtons = ({ onStartQuiz, onBack, onBackPack }) => (
   <>
     <Button
       variant='outlinedbutton'
+      onClick={onBackPack}
+      className='w-48 mt-8 mr-4'
+    >
+      Menu Paket
+    </Button>
+    <Button
+      variant='outlinedbutton'
       onClick={onBack}
-      className='w-64 mt-4 mr-4'
+      className='w-48 mt-4 mr-4 ml-4'
     >
       Kembali
     </Button>
     <Button
       variant='mainbutton'
       onClick={onStartQuiz}
-      className='w-64 mt-8 ml-4'
+      className='w-48 mt-8 ml-4'
     >
       Mulai Waktu
     </Button>
