@@ -396,7 +396,7 @@ const questionData = [
         timeLimit: 10,
       },
       {
-        question: 'Kode warna #000000 adalah kode warna?',
+        question: 'Sebutkan dua protokol yang bekerja di lapisan Transport! …',
         timeLimit: 10,
       },
       {
@@ -1008,10 +1008,6 @@ const questionData = [
         timeLimit: 10,
       },
       {
-        question: 'Kode warna #FFFFFF adalah kode warna untuk warna? ',
-        timeLimit: 10,
-      },
-      {
         question: 'Siapa pendiri Apple…? ',
         timeLimit: 10,
       },
@@ -1022,6 +1018,10 @@ const questionData = [
       {
         question: 'Bilangan desimal 42 jika dikonversi ke bilangan biner akan menghasilkan suatu nilai. Berapakah nilai biner dari bilangan desimal 42? ',
         timeLimit: 15,
+      },
+      {
+        question: 'Sensitivitas sensor kamera terhadap cahaya disebut?',
+        timeLimit: 10,
       },
     ],
     contentionQuestions: [
@@ -1214,7 +1214,7 @@ const questionData = [
         timeLimit: 10,
       },
       {
-        question: 'Jenis gambar digital yang dibentuk dan disusun oleh Kumpulan pixel atau titik yang memiliki warna tertentu disebut?',
+        question: 'Ilustrasi yang di bentuk dan disusun oleh Kumpulan pixel atau titik dinamakan sebagai Ilustrasi ?',
         timeLimit: 10,
       },
       {
