@@ -8,7 +8,7 @@ const MainMenu = () => {
       <section className='p-8'>
         <h1 className="text-4xl font-bold text-slate-700">PAKET SOAL</h1>
       </section>
-      <section className='w-full p-4 grid grid-cols-6 grid-rows-2 gap-4'>
+      <section className='w-full p-4 grid grid-cols-5 grid-rows-2 gap-4'>
         {questionData.map((pack, index) => (
           <Card
             key={index}
