@@ -51,7 +51,7 @@ const Question = () => {
 
   return (
     <div className="flex flex-col items-center min-h-screen bg-slate-200 p-4">
-      <h1 className="text-2xl font-bold mt-4">
+      <h1 className="text-2xl font-bold mt-4 text-slate-700">
         Paket {pack.packName} - {getQuestionTypeLabel(questionType)}
       </h1>
       <div className='mt-12 w-full flex flex-col items-center'>
@@ -76,7 +76,7 @@ const getQuestionTypeLabel = (type) => {
 
 // Component to display the current question
 const QuestionCard = ({ question, questionIndex }) => (
-  <div className="p-8 bg-slate-100 w-full rounded-lg shadow-md mb-4">
+  <div className="p-8 bg-slate-100 w-full rounded-lg shadow-md mb-4 text-slate-700">
     <p className="text-xl font-semibold mb-4">Soal Nomor: {questionIndex + 1}</p>
     <p className='text-4xl'>{question?.question}</p>
   </div>

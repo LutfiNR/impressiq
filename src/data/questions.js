@@ -3,107 +3,107 @@ const questionData = [
     packName: 'A',
     mainQuestions: [
       {
-        question: 'Layanan yang menghubungkan dua jaringan atau komputer yang berjauhan secara private dan aman disebut VPN. Apakah kepanjangan dari VPN?',
+        question: 'Saat merekam film pendek dengan kualitas sinematik, kamera apa yang paling sering digunakan karena memiliki kemampuan mengganti lensa dan kontrol manual penuh terhadap cahaya?',
         timeLimit: 10,
       },
       {
-        question: 'Pada tahun berapa ARPANET mulai beroperasi?',
+        question: 'Alat hitung kuno tertua yang menggunakan manik-manik pada sebuah bingkai dan dianggap sebagai cikal bakal komputasi adalah?',
         timeLimit: 10,
       },
       {
-        question: 'Alamat unik yang diberikan pada setiap perangkat dalam jaringan agar dapat saling berkomunikasi disebut ...',
+        question: 'Saat merekam aksi olahraga cepat, hasil video terlihat patah-patah karena pergerakan tidak halus. Pengaturan apa yang harus ditingkatkan agar gerakan terlihat lebih mulus?',
         timeLimit: 10,
       },
       {
-        question: 'Apakah 2 jenis pemformatan warna yang sering digunakan dalam desain  digital ?',
+        question: 'Tiga elemen utama yang membentuk Exposure Triangle dalam fotografi adalah Aperture, ISO, dan...?',
         timeLimit: 10,
       },
       {
-        question: 'Teknik pembuatan video, termasuk pengambilan gambar, penyuntingan, dan produksi untuk berbagai keperluan seperti film, dokumenter, dan iklan disebut… ',
-        timeLimit: 10,
-      },
-      {
-        question: 'Apakah kepanjangan dari OS?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Siapakah "Bapak Komputer Modern"',
-        timeLimit: 10,
-      },
-      {
-        question: 'Menceritakan sebuah kisah di mana hubungan antar adegan saling terkait dan saling mendukung, sehingga setiap adegan memiliki keterkaitan dengan yang lain, merupakan jenis proyek yang disebut dengan…',
-        timeLimit: 10,
-      },
-      {
-        question: 'Bilangan hexadesimal FF jika dikonversi ke bilangan biner akan menghasilkan suatu nilai. Berapakah nilai biner dari bilangan hexadesimal FF?',
+        question: 'Berapakah hasil penjumlahan 1101₂ + 1011₂ dalam sistem biner?….',
         timeLimit: 15,
       },
       {
-        question: 'Penyesuaian warna yang digunakan untuk mendapatkan tampilan yang natural disebut....',
+        question: 'Serangan dari satu komputer/mesin yang ngirim request atau trafik berlebihan ke server/layanan sampai down disebut?...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Protokol yang memberikan IP Secara Otomatis adalah?...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Jaringan komputer yang hanya mencakup area geografis kecil, seperti dalam satu ruangan, gedung, atau kampus, disebut?...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Bagian inti dari sistem operasi yang berfungsi sebagai jembatan antara perangkat lunak(software) dan perangkat keras(hardware) disebut?...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Aliran desain yang menekankan kesederhanaan disebut?...',
         timeLimit: 10,
       },
     ],
     contentionQuestions: [
       {
-        question: 'Perangkat yang berfungsi sebagai pelindung, seperti tembok, untuk menjaga komputer atau jaringan kita dari ancaman luar disebut?',
+        question: 'Sebuah file video tidak bisa diputar di komputer tertentu karena tidak memiliki komponen pengurai data yang sesuai. Sistem apa yang berperan dalam proses ini?...',
         timeLimit: 10,
       },
       {
-        question: 'Apa nama protokol jaringan pertama yang digunakan oleh ARPANET …',
+        question: 'Istilah lengkap untuk rentang jarak di dalam sebuah foto yang terlihat tajam atau berada dalam fokus adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Apa metode untuk menghindari deadlock dalam Sistem Operasi?',
+        question: 'Blaise Pascal menemukan kalkulator roda numerik yang disebut?...',
         timeLimit: 10,
       },
       {
-        question: 'Sebutkan  Komponen Warna Yang membentuk model warna CMYK ?',
-        timeLimit: 10,
-      },
-      {
-        question: 'melalui sistem yang terdiri dari beberapa subkomponen seperti optik, elektronik, dan mekanik, yang bekerja bersama-sama untuk menangkap pantulan dari objek atau benda yang direkam, disebut sebagai...',
-        timeLimit: 10,
-      },
-      {
-        question: 'Siapakah programmer pertama di dunia?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Dalam bilangan biner, 1 byte terdiri dari sejumlah bit. Berapakah jumlah bit dalam 1 byte?  ',
+        question: 'Berapakah hasil pengurangan 10110₂ - 1101₂ dalam sistem biner?...',
         timeLimit: 15,
       },
       {
-        question: 'Proses mengubah dan memperbaiki warna video untuk mencapai suasana tertentu atau kesesuaian dengan tema film disebut dengan…',
+        question: 'Jenis malware yang menyamar sebagai aplikasi normal disebut?...',
         timeLimit: 10,
       },
       {
-        question: 'Protokol yang memberikan IP Secara Otomatis adalah?',
+        question: 'Alamat unik yang diberikan pada setiap perangkat dalam jaringan agar dapat saling berkomunikasi disebut?...',
         timeLimit: 10,
       },
       {
-        question: 'Seni atau proses yang dilakukan untuk menangkap gambar menggunakan cahaya disebut?',
+        question: 'Perangkat keras yang dipasang di setiap komputer untuk memungkinkan koneksi fisik ke jaringan adalah?... ',
+        timeLimit: 10,
+      },
+      {
+        question: ' Untuk melihat daftar file dan folder pada direktori saat ini menggunakan Command Prompt (CMD) di Windows, perintah yang digunakan adalah …',
+        timeLimit: 10,
+      },
+      {
+        question: 'Penyampaian pesan melalui simbol, teks, gambar dan warna disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Dalam proses pengambilan gambar, komponen kamera apa yang berfungsi menentukan seberapa banyak cahaya yang diterima sensor?',
         timeLimit: 10,
       },
     ],
     additionalQuestions: [
       {
-        question: 'Pada tanggal 8 Mei 2023, Media Sosial dihebohkan dengan BSI yang  diduga terkena serangan ransomware hingga mengakibatkan nasabah tidak dapat mengakses BSI Mobile serta ATM. Ransomware mengubah data menjadi kode yang tidak dapat dibaca secara langsung sehingga data tidak dapat di akses. Proses mengubah data menjadi kode yang tidak dapat dibaca secara langsung disebut? ',
+        question: 'Dalam proses editing, editor membandingkan video 720p dan 1080p. Faktor teknis apa yang menentukan tingkat ketajaman dan detail gambar disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Dalam bilangan biner, operasi pergeseran bit ke kiri (left shift) satu posisi pada 1010 menghasilkan suatu nilai. Berapakah hasil operasi tersebut dalam bilangan biner?',
-        timeLimit: 15,
-      },
-      {
-        question: 'Bilangan biner 10011001 jika dikonversi ke bilangan desimal akan menghasilkan suatu nilai. Berapakah nilai desimal dari bilangan biner 10011001?',
-        timeLimit: 15,
-      },
-      {
-        question: 'Proses di mana suara seorang narator memberikan kedalaman pada narasi dan membantu penonton memahami lebih baik tentang isi film dalam produk audio visual ini disebut... ',
+        question: 'Ukuran standar dalam fotografi untuk menentukan tingkat sensitivitas sensor kamera terhadap cahaya disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Dalam kompisisi gambar, teknik komposisi di mana bingkai dibagi menjadi sembilan bagian dengan dua garis horizontal dan dua garis vertikal, elemen penting diletakkan di sepanjang garis atau pada titik pertemuan untuk menciptakan keseimbangan visual disebut…',
+        question: 'John Napier pada tahun 1617 menemukan alat hitung bernama...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Konversikan bilangan biner 11010110₂ ke dalam sistem desimal!',
+        timeLimit: 15,
+      },
+      {
+        question: 'Teknologi yang memungkinkan pengguna mengakses jaringan secara aman melalui jalur terenkripsi, sering dipakai buat remote access disebut?',
         timeLimit: 10,
       },
     ],
@@ -112,107 +112,107 @@ const questionData = [
     packName: 'B',
     mainQuestions: [
       {
-        question: 'Budi sedang membuka sebuah situs, tetapi muncul peringatan di browser yang mengatakan "Koneksi Anda tidak aman". Hal ini disebabkan karena situs tersebut tidak menggunakan protokol?',
+        question: 'Ketika merekam di ruangan minim cahaya, pengaturan kamera apa yang dapat ditingkatkan agar hasil gambar tetap terang tanpa menambah lampu?',
         timeLimit: 10,
       },
       {
-        question: 'Menyambungkan dua perangkat, mentransmisikan data mentah dalam bit, dan mengirimkannya melalui medium fisik, merupakan fungsi OSI Layer …',
+        question: 'Setelah semua efek dan potongan video selesai diatur, editor mengekspor hasil akhir menjadi satu file video utuh. Proses ini disebut apa?',
         timeLimit: 10,
       },
       {
-        question: 'Pengalamatan IP yang ditetapkan dengan cara manual dan tidak dapat berubah disebut dengan?',
+        question: 'Kata “komputer” berasal dari bahasa Latin yaitu...',
         timeLimit: 10,
       },
       {
-        question: 'Apakah format file default pada aplikasi Photoshop ?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Cara mengatur komposisi gambar dalam bingkai untuk menarik perhatian penonton pada elemen tertentu dalam adegan…',
-        timeLimit: 10,
-      },
-      {
-        question: 'Bagian dari sebuah drive penyimpanan agar terpisah-pisah disebut dengan ...',
-        timeLimit: 10,
-      },
-      {
-        question: 'Teknologi apakah yang digunakan pada komputer generasi ketiga? ',
-        timeLimit: 10,
-      },
-      {
-        question: 'Seorang sutradara sedang bekerja dengan tim audio untuk merekam suara yang dibutuhkan untuk adegan tertentu dalam sebuah film. Proses ini melibatkan pengambilan berbagai suara, mulai dari dialog hingga efek suara, yang sesuai dengan kebutuhan naskah atau skenario. Tahap ini dikenal sebagai... ',
-        timeLimit: 10,
-      },
-      {
-        question: 'Operasi logika NOT pada bilangan biner 1010 menghasilkan suatu nilai. Berapakah hasil operasi NOT tersebut dalam bilangan biner 4-bit? ',
+        question: 'Konversikan bilangan desimal 45 ke dalam sistem biner!',
         timeLimit: 15,
       },
       {
-        question: 'Grafik yang menunjukkan distribusi cahaya dalam gambar adalah?',
+        question: 'Protokol yang digunakan untuk komunikasi web aman adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Digunakan untuk membagi alamat IP menjadi dua bagian: Network ID dan Host ID, dan dapat membantu menentukan jaringan mana yang digunakan dan jumlah host di setiap subnet, adalah fungsi dari...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Topologi fisik jaringan yang menggunakan satu kabel utama (backbone) tempat semua perangkat terhubung adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Kemampuan sistem operasi untuk menjalankan beberapa program atau aplikasi secara bersamaan dalam satu waktu disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Pengaturan pada lensa yang berfungsi mengubah ukuran bukaan diafragma untuk mengontrol intensitas cahaya yang masuk disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Desain grafis yang berbasis pada penggunaan komputer dan software disebut?',
         timeLimit: 10,
       },
     ],
     contentionQuestions: [
       {
-        question: 'Suatu sistem yang berfungsi untuk mendeteksi adanya ancaman dalam jaringan dan mengirimkan notifikasi kepada administrator disebut?',
+        question: 'Jika sebuah adegan ingin menonjolkan kesan kekuasaan atau dominasi karakter, sudut pengambilan gambar mana yang paling tepat digunakan?',
         timeLimit: 10,
       },
       {
-        question: 'Protokol TCP atau IP menggunakan skema alamat sederhana yang disebut …',
+        question: 'Dalam software seperti DaVinci Resolve, area di mana semua klip video, audio, dan efek disusun sesuai urutan waktu disebut apa?',
         timeLimit: 10,
       },
       {
-        question: 'Operasi penjumlahan bilangan biner 1010 + 1100 menghasilkan suatu nilai. Berapakah hasil penjumlahan tersebut dalam bilangan biner?',
+        question: 'Istilah yang berasal dari bahasa Jepang untuk kualitas estetika blur pada area out-of-focus di latar belakang foto adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Charles Babbage dikenal sebagai penemu mesin hitung analitik yang disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Konversikan bilangan desimal 128 ke dalam sistem biner!',
         timeLimit: 15,
       },
       {
-        question: 'Gambar yang terdominasi warna hitam menjadi bentuk suatu objek disebut gambar ?',
+        question: 'Firewall dalam jaringan berfungsi untuk...',
         timeLimit: 10,
       },
       {
-        question: 'Rasio aspek yang digunakan pada HDTV (High Definition Television) merujuk pada perbandingan antara lebar dan tinggi layar televisi tersebut. Hal ini merupakan salah satu fitur penting yang menentukan bentuk tampilan gambar yang ditransmisikan. Dengan demikian, rasio aspek pada HDTV adalah... ',
-        timeLimit: 10,
-      },
-      {
-        question: 'Kernel Linux diciptakan oleh ...',
-        timeLimit: 10,
-      },
-      {
-        question: 'Apa kepanjangan dari IC? ',
-        timeLimit: 10,
-      },
-      {
-        question: 'Tujuan utama dari enkripsi adalah untuk melindungi data dan menjaga kerahasiaan informasi. Enkripsi terbagi menjadi dua jenis, yaitu?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Foto yang fokus pada wajah atau karakter seseorang dikenal sebagai?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Bilangan biner 1010 jika dikonversi ke bilangan hexadesimal akan menghasilkan suatu nilai. Berapakah nilai Hexadesimal dari bilangan biner 1010? ',
+        question: 'Berapakah range IP Host dari IP 192.168.20.75/26? ',
         timeLimit: 15,
+      },
+      {
+        question: 'Jenis konektor standar yang umum digunakan pada kabel UTP (Unshielded Twisted Pair) untuk jaringan Ethernet adalah?',
+        timeLimit: 10,
+      },
+      {
+        question: 'Proses membagi hard disk menjadi beberapa bagian tertentu dikenal sebagai...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Sebuah desain poster memiliki komposisi elemen secara simetris dan asimetris. Prinsip ini dalam desain grafis disebut...',
+        timeLimit: 10,
       },
     ],
     additionalQuestions: [
       {
-        question: 'Bilangan desimal negatif -8 dalam representasi biner 8-bit dengan metode komplemen dua memiliki suatu nilai. Berapakah nilai biner dari -8 dalam representasi tersebut? ',
-        timeLimit: 15,
-      },
-      {
-        question: 'Pada enkripsi asimetris, proses enkripsi dan dekripsi dilakukan menggunakan dua kunci yang berbeda. Apa istilah yang digunakan untuk merujuk pada kedua kunci tersebut?',
+        question: 'Metode yang memancing korban melalui email palsu untuk mencuri data disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Bahasa pemrograman yang diciptakan dengan tujuan awal untuk memudahkan pemula untuk mempelajari pemrogaman komputer adalah',
+        question: 'Kepanjangan dari DHCP adalah?',
         timeLimit: 10,
       },
       {
-        question: 'Dalam proses editing audio untuk sebuah film, seorang sound engineer harus memastikan bahwa volume suara dalam beberapa adegan diatur dengan tepat. Ia menggunakan efek khusus untuk memperkuat atau memperlemah amplitude sinyal audio, sehingga suara tertentu terdengar lebih jelas atau lebih halus sesuai kebutuhan adegan. Efek yang digunakan oleh sound engineer ini dikenal sebagai...',
+        question: 'Apakah kepanjangan dari WAN dalam konteks jaringan komputer?',
         timeLimit: 10,
       },
       {
-        question: 'Memungkinkan penggantian latar belakang secara digital, memberikan fleksibilitas kreatif dalam produksi video merupakan manfaat dari ?',
+        question: 'Perangkat lunak yang membantu perangkat keras berkomunikasi dengan system operasi adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Konsistensi dalam sebuah desain dapat di bantu oleh garis tata letak. Istilah lain dari garis tata letak disebut...',
         timeLimit: 10,
       },
     ],
@@ -221,108 +221,108 @@ const questionData = [
     packName: 'C',
     mainQuestions: [
       {
-        question: 'IDS dan IPS merupakan alat yang memiliki peran penting dalam jaringan. IDS adalah singkatan dari Intrusion Detection System, sedangkan IPS adalah singkatan dari ....',
+        question: 'Dalam sebuah adegan kejar-kejaran, kamera bergerak mengikuti subjek dari belakang agar tetap dalam frame. Teknik ini disebut apa?',
         timeLimit: 10,
       },
       {
-        question: 'Kumpulan protokol yang memungkinkan perangkat berkomunikasi dan mentransfer data melalui internet dan jaringan lainnya, merupakan pengertian dari …',
+        question: 'Reporter menggunakan layar hijau saat merekam agar latar belakang bisa diganti dengan gambar studio virtual. Teknik ini dikenal sebagai apa?',
         timeLimit: 10,
       },
       {
-        question: 'Menerjemahkan IP privat menjadi IP publik agar perangkat dalam jaringan lokal bisa berkomunikasi dengan internet adalah definisi dari?',
+        question: 'Penggunaan shutter speed lambat untuk merekam jejak gerakan objek sehingga terlihat kabur dan dinamis disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Jumlah warna maksimal yang bisa ditampilkan olehhh  file gambar berformat GIF adalah ?',
+        question: 'Untuk mempercepat sensus penduduk Amerika Serikat tahun 1890, Herman Hollerith mengembangkan sebuah perangkat yang menggunakan kartu berlubang (punch card). Mesin ini disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Dalam pengambilan video, hal apa yang berfungsi untuk menyoroti subjek dengan jelas, menciptakan suasana yang diinginkan, dan menghindari bayangan yang tidak diinginkan…',
-        timeLimit: 10,
-      },
-      {
-        question: 'Contoh OS berbasis desktop yang gratis adalah?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Komputer elektronik pertama di dunia?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Semua bunyi yang kita dengar merupakan hasil dari gelombang getaran yang sampai ke telinga dan dapat ditangkap oleh gendang telinga. Untuk mengukur banyaknya getaran suara tersebut, menggunakan satuan yang dikenal sebagai... ',
-        timeLimit: 10,
-      },
-      {
-        question: 'Bilangan hexadesimal A5 jika dikonversi ke bilangan biner akan menghasilkan suatu nilai. Berapakah nilai biner dari bilangan hexadesimal A5? ',
+        question: 'Hitunglah hasil operasi logika AND (∧) dari dua bilangan biner berikut: 1101₂ dan 1010₂!',
         timeLimit: 15,
       },
       {
-        question: 'Teknik yang digunakan untuk menangkap rentang cahaya yang lebih luas dalam foto adalah?',
+        question: 'Protokol keamanan yang umum dipakai untuk melindungi jaringan Wi-Fi adalah?',
+        timeLimit: 10,
+      },
+      {
+        question: 'Berapakah IP Network dari IP 192.168.15.70/28?',
+        timeLimit: 15,
+      },
+      {
+        question: 'Lapisan terbawah (terendah) yang bertanggung jawab atas transmisi bit data mentah melalui media fisik pada model OSI adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Jenis sistem operasi yang memiliki kode sumber terbuka sehingga dapat diakses, dimodifikasi, dan didistribusikan secara bebas oleh siapa saja disebut...',
+        timeLimit: 1,
+      },
+      {
+        question: 'Tipe image dalam desain grafis yang tersusun dari titik-titik (pixel) disebut apa?',
         timeLimit: 10,
       },
     ],
     contentionQuestions: [
       {
-        question: 'Dalam proses enkripsi, terdapat beberapa komponen penting seperti data, algoritma, dan kunci. Jika proses enkripsi dan dekripsi menggunakan kunci yang sama, jenis enkripsi apakah itu?',
+        question: 'Dalam sistem pencahayaan tiga titik, cahaya utama yang menentukan arah dan intensitas pencahayaan utama disebut apa?',
         timeLimit: 10,
       },
       {
-        question: 'Menghubungkan perangkat dalam jaringan internet dan jaringan pribadi, merupakan fungsi dari TCP/IP. Apakah kepanjangan dari TCP/IP …',
+        question: 'Ketika dua adegan dihubungkan dengan efek memudar lembut untuk memberikan kesan transisi halus, efek ini disebut apa?',
         timeLimit: 10,
       },
       {
-        question: 'Operasi logika AND antara 1010 dan 1100 menghasilkan suatu nilai. Berapakah hasil operasi AND tersebut dalam bilangan biner? ',
+        question: 'Untuk menjaga kamera tetap stabil dan menghindari guncangan saat memotret dengan shutter speed lambat, fotografer biasanya menggunakan alat bantu tersebut yang disebut...',
         timeLimit: 15,
       },
       {
-        question: 'Sebutkan komponen warna yang membentuk warna subtractive ? ',
+        question: 'Berdasarkan jenis data yang diolah, komputer yang bekerja dengan sinyal diskrit (direpresentasikan oleh angka 0 dan 1) untuk memproses data huruf dan angka disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Dalam sebuah adegan film, seorang karakter sedang berlari menuju kamera, memberikan kesan seolah-olah ia semakin dekat dengan penonton. Saat ia berlari, kamera bergerak mengikuti langkahnya, menciptakan suasana mendebarkan seolah-olah penonton bisa merasakan ketegangan yang dialaminya. Pergerakan kamera ini, disebut... ',
+        question: 'Konversikan bilangan biner 1111₂ ke dalam sistem heksadesimal!',
+        timeLimit: 15,
+      },
+      {
+        question: 'Jenis malware yang dapat menggandakan diri tanpa campur tangan pengguna adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Teknologi Apa yang menggantikan vacuum tube di generasi kedua?',
+        question: 'Berapa IP Broadcast dari IP 192.168.100.130/25?',
+        timeLimit: 15,
+      },
+      {
+        question: 'Alat jaringan yang berfungsi menerima sinyal lemah, membersihkannya dari noise, dan mengirimkannya kembali dengan kekuatan penuh untuk memperpanjang jangkauan transmisi adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Komponen yang berfungsi sebagai pusat pemrosesan utama adalah? ',
+        question: 'Fitur “End Task” digunakan untuk menghentikan paksa aplikasi yang tidak merespons. Fitur ini dapat ditemukan di mana?',
         timeLimit: 10,
       },
       {
-        question: 'Virus komputer bertujuan untuk mengganggu sistem, menyebabkan masalah operasional yang besar, dan mengakibatkan kebocoran bahkan hilangnya data. Benar atau salah: Malware dan virus adalah hal yang sama?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Teknik yang digunakan untuk menangkap rentang cahaya yang lebih luas dalam foto adalah?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Sebutkan 2 Orientasi dalam desain grafis ?',
+        question: 'Perangkat lunak buatan Adobe Systems yang digunakan khusus untuk mengedit foto disebut apa?',
         timeLimit: 10,
       },
     ],
     additionalQuestions: [
       {
-        question: 'Perusahaan atau organisasi yang menyediakan layanan akses internet kepada pelanggan. Merupakan definisi dari …',
+        question: 'Jika sutradara ingin merekam suara dari jarak jauh tanpa mendekatkan mikrofon ke talent, jenis mic apa yang paling sesuai digunakan?',
         timeLimit: 10,
       },
       {
-        question: 'Dio ingin login ke akun e-walletnya menggunakan perangkat lain. Setelah login, Dio diminta untuk memasukkan kode OTP untuk melanjutkan proses login. OTP merupakan singkatan dari?',
+        question: 'Untuk membuat video wawancara berdurasi singkat tanpa bagian pengulangan, editor menghapus bagian yang tidak penting. Proses ini dikenal sebagai apa?',
         timeLimit: 10,
       },
       {
-        question: 'Sistem angka yang hanya menggunakan dua simbol, 0 dan 1, untuk merepresentasikan data dalam komputer disebut dengan? ',
+        question: 'Pengaturan pada kamera untuk menyeimbangkan warna pada foto agar objek putih terlihat benar-benar putih sesuai dengan kondisi sumber cahaya disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Foto dengan pencahayaan tinggi dan sedikit bayangan disebut?',
+        question: 'Era komputer generasi pertama, yang ditandai dengan penggunaan tabung vakum (vacuum tube), berlangsung dalam rentang waktu...',
         timeLimit: 10,
       },
       {
-        question: 'Sebutkan tiga teknik dasar dalam pengambilan gambar menggunakan kamera.',
-        timeLimit: 10,
+        question: 'Hitunglah hasil operasi logika OR (∨) dari dua bilangan biner berikut: 1100₂ dan 1010₂.',
+        timeLimit: 15,
       },
     ],
   },
@@ -330,107 +330,107 @@ const questionData = [
     packName: 'D',
     mainQuestions: [
       {
-        question: 'Segaf berusaha melakukan hacking terhadap akun temannya. Dia mengetahui username akun tersebut dan mencoba memasukkan berbagai kemungkinan password dengan menggunakan program. Teknik serangan yang digunakan Segaf disebut?',
+        question: 'Ketika fokus pengambilan gambar hanya menampilkan wajah hingga bahu talent untuk menonjolkan ekspresi emosional, jenis framing apa yang digunakan?',
         timeLimit: 10,
       },
       {
-        question: 'Topologi yang menggunakan kabel tunggal, mudah dikembangkan dan hemat biaya instalasi, adalah ciri-ciri dari topologi ...',
+        question: 'Dalam video tutorial, editor hanya menampilkan area tertentu di layar komputer sambil menyembunyikan bagian lain. Teknik ini disebut apa?',
         timeLimit: 10,
       },
       {
-        question: 'Dalam penerjemahan IP privat menjadi IP public agar perangkat dalam jaringan lokal bisa berkomunikasi dengan internet adalah menggunakan NAT, kepanjangan dari NAT adalah?',
+        question: 'Lensa prime 50mm dengan bukaan besar (seperti f/1.8) sering dijuluki sebagai lensa "wajib punya" karena harganya terjangkau dan serbaguna. Julukan populernya adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Gambar yang berulang yang biasanya digunakan untuk background desain disebut ?',
+        question: 'Komputer generasi pertama yang menggunakan sirkuit berupa...',
         timeLimit: 10,
       },
       {
-        question: 'Ilmu yang mempelajari penempatan, perataan huruf agar bisa memberikan pesan secara maksimal dalam desain grafis disebu?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Keadaan dimana program terhenti karena akses file bersamaan adalah ...',
-        timeLimit: 10,
-      },
-      {
-        question: 'Komputer analog memproses data dalam bentuk sinyal kontinu, sedangkan komputer digital memproses data dalam bentuk apakah sinyalnya?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Teknik pengambilan gambar dengan mengambil gambar dari arah belakang bahu obyek. Akibatnya obyek hanya nampak bagian bahu atau kepalanya saja. Biasanya teknik ini dipakai untuk menunjukkan bahwa obyek sedang melihat sesuatu ataupun sedang berbincang-bincang, merupakan teknik pengambilan gambar …',
-        timeLimit: 10,
-      },
-      {
-        question: 'Operasi logika OR antara 1010 dan 0101 menghasilkan suatu nilai. Berapakah hasil operasi OR tersebut dalam bilangan biner? ',
+        question: 'Konversikan bilangan desimal 63 ke dalam sistem biner!',
         timeLimit: 15,
       },
       {
-        question: 'Cara pandang yang mempengaruhi tampilan objek dalam gambar disebut?',
+        question: 'Serangan yang menyisipkan kode berbahaya ke dalam database lewat input form disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Pengalamatan IP yang ditetapkan dengan cara manual dan tidak dapat berubah disebut dengan...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Jenis jaringan yang menggunakan media transmisi gelombang elektromagnetik (radio) alih-alih kabel fisik untuk komunikasi data adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Sistem file yang umum digunakan pada system operasi windows modern adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Beberapa perangkat lunak editing memiliki toolbox, salah satunya Adobe Photoshop memiliki Ellipse tools. Apa fungsi dari toolbox Ellipse tools?',
         timeLimit: 10,
       },
     ],
     contentionQuestions: [
       {
-        question: 'Abdul mengunduh sebuah perangkat lunak, dan setelah dipasang, tiba-tiba laptopnya menjadi lambat. Ternyata, Abdul mengunduh perangkat lunak yang tampaknya resmi, tetapi sebenarnya berisi malware. Malware jenis apakah itu?',
+        question: 'Untuk menjaga komposisi visual agar subjek tampak proporsional dalam frame, aturan yang membagi layar menjadi sembilan bagian disebut apa?',
         timeLimit: 10,
       },
       {
-        question: 'Jaringan yang digunakan untuk menghubungkan komputer yang terpisah di kota yang sama atau berbeda disebut …',
+        question: 'Editor ingin memperlambat adegan lompatan atlet agar tampak lebih dramatis. Teknik apakah yang digunakan?',
         timeLimit: 10,
       },
       {
-        question: 'Pada bilangan heksadesimal, terdapat bilangan F. F pada bilangan desimal bernilai?',
+        question: 'Jenis lensa yang memiliki focal length pendek (misalnya 16-35mm) dan mampu menangkap area pemandangan yang sangat luas disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Bahasa pemrograman yang digunakan pada komputer generasi pertama adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Konversikan bilangan desimal 87 ke dalam sistem biner!',
         timeLimit: 15,
       },
       {
-        question: 'Gambar yang digunakan pada film animasi 2D umumnya menggunakan tipe gambar ?',
+        question: 'Jika sebuah website tiba-tiba tidak bisa diakses karena dibanjiri trafik dari banyak komputer zombie, serangan apa yang sedang terjadi?',
         timeLimit: 10,
       },
       {
-        question: 'Teknik pencahayaan yang digunakan untuk menciptakan efek penyinaran dari belakang karakter diatur sedemikian rupa sehingga cahaya lembut jatuh tepat mengenai kepala dan bahunya, menciptakan efek halo yang mempesona. Kontras antara cahaya yang terang di belakang dan bayangan yang lebih gelap di depan menambah kedalaman emosional pada momen tersebut. Teknik ini disebut sebagai... ',
+        question: 'Sistem yang berfungsi untuk menerjemahkan nama domain menjadi alamat IP sehingga perangkat di internet dapat saling terhubung adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Jenis Sistem Operasi yang dapat diakses kode aslinya dan dapat   dibagikan secara bebas disebut dengan ...',
+        question: 'Dalam arsitektur jaringan client-server, komputer yang menyediakan sumber daya, layanan, dan manajemen data terpusat disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Sebutkan dua protokol yang bekerja di lapisan Transport! …',
+        question: 'Sistem file yang kompatibilitasnya luas di berbagai system operasi dengan batasan ukuran file 4GB adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Teknik yang digunakan untuk mengarahkan perhatian ke subjek dalam foto adalah?',
-        timeLimit: 10,
-      },
-      {
-        question: 'System Bilangan memiliki beberapa jenis. System Bilangan yang memiliki basis 8, bilangan ini dikenal dengan ?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Serangkaian gambar atau sketsa yang menggambarkan setiap adegan dalam video, berfungsi sebagai panduan visual untuk produksi…',
+        question: 'Jenis image yang dapat menampilkan animasi dan memiliki kedalaman warna hingga 256 disebut format...',
         timeLimit: 10,
       },
     ],
     additionalQuestions: [
       {
-        question: 'Apa kepanjangan dari FAT dalam Sistem Operasi?',
+        question: 'Serangan yang memanfaatkan celah keamanan situs untuk menampilkan script berbahaya di browser pengguna disebut?',
         timeLimit: 10,
       },
       {
-        question: 'Disebut apakah teknologi yang memvirtualisasi fungsi-fungsi jaringan tradisional seperti routing dan firewall, sehingga dapat dijalankan di perangkat keras umum …',
+        question: 'Menerjemahkan IP privat menjadi IP publik agar perangkat dalam jaringan lokal bisa berkomunikasi dengan internet adalah definisi dari...',
         timeLimit: 10,
       },
       {
-        question: 'Bilangan desimal 100 jika dikonversi ke bilangan biner akan menghasilkan suatu nilai. Berapakah nilai biner dari bilangan desimal 100?',
-        timeLimit: 15,
-      },
-      {
-        question: 'Suara narator yang ditambahkan ke video untuk menjelaskan atau memberikan konteks tambahan tanpa muncul di layar disebut…',
+        question: 'Satuan kecepatan transfer data yang paling umum digunakan untuk mengukur bandwidth koneksi internet rumah tangga atau standar Ethernet adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Pengambilan gambar yang bertujuan untuk memperlihatkan detail objek kecil dikenal sebagai?',
+        question: 'Proses memuat sistem operasi dari hard disk ke memori utama (RAM) saat komputer dinyalakan disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Format file yang digunakan pada software CorelDraw untuk menyimpan data vektor disebut format...',
         timeLimit: 10,
       },
     ],
@@ -439,544 +439,108 @@ const questionData = [
     packName: 'E',
     mainQuestions: [
       {
-        question: 'Ransomware mengubah data menjadi kode yang tidak dapat dibaca secara langsung, sehingga data tidak dapat diakses. Untuk dapat mengakses dan membaca data, perlu mengubah kode tersebut ke bentuk semula dengan menggunakan kunci. Proses mengubah kode menjadi data semula disebut?',
+        question: 'Saat merekam panorama kota, kamera digerakkan secara horizontal dari kiri ke kanan. Gerakan ini disebut apa?',
         timeLimit: 10,
       },
       {
-        question: 'Dalam Jaringan Virtual memisahkan kontrol jaringan dari perangkat keras dan memungkinkan pengelolaan jaringan secara terpusat menggunakan perangkat lunak. Merupakan Peran dari …',
+        question: 'Seorang editor mengubah hasil video berformat MOV ke MP4 agar lebih mudah diputar di berbagai perangkat. Proses ini dinamakan apa?',
         timeLimit: 10,
       },
       {
-        question: 'Berapa IP Network dari IP 172.16.5.8/30?',
+        question: 'Format file gambar yang merekam data mentah langsung dari sensor kamera tanpa kompresi dan pengolahan internal disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Komputer elektronik pertama di dunia bernama...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Berapakah hasil perkalian 101₂ × 11₂ dalam sistem biner? ',
         timeLimit: 15,
       },
       {
-        question: 'Dalam desain grafis warna yang merupakan wakil dari hal-hal atau benda yang bersifat cahaya, harapan, hati-hati, keraguan adalah?',
+        question: 'Metode keamanan jaringan yang menggunakan lapisan otentikasi ganda disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Ilmu yang mempelajari penempatan, perataan huruf agar bisa memberikan pesan secara maksimal dalam desain grafis disebu?',
+        question: 'Kepanjangan dari NAT adalah?',
         timeLimit: 10,
       },
       {
-        question: 'Teknik yang memungkinkan komputer seolah-olah memiliki memori tambahan di luar kapasitas memori fisik disebut ?',
+        question: 'Perbedaan utama antara arsitektur jaringan peer-to-peer dan client-server terletak pada keberadaan...',
         timeLimit: 10,
       },
       {
-        question: 'Pada tahun berapa ENIAC pertama kali diperkenalkan?',
+        question: 'Akun pengguna di Windows yang memiliki hak akses penuh untuk mengubah semua pengaturan sistem adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Efek audio dapat diterapkan baik pada klip video maupun lagu, dengan tujuan untuk menghasilkan kualitas suara yang lebih baik. Untuk menerapkan efek yang berbasis pada jalur tertentu, digunakan perangkat yang dikenal sebagai... ',
-        timeLimit: 10,
-      },
-      {
-        question: 'Sistem bilangan yang menggunakan sepuluh angka, yaitu 0, 1, 2, 3, 4, 5, 6, 7, 8, dan 9 disebut ?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Waktu yang dibutuhkan shutter untuk terbuka dan membiarkan cahaya masuk adalah?',
+        question: 'Sebuah image yang tersusun dari kumpulan titik-titik warna dengan jumlah tertentu yang tersusun secara sistematik sehingga membentuk suatu objek gambar adalah...',
         timeLimit: 10,
       },
     ],
     contentionQuestions: [
       {
-        question: 'VPN merupakan layanan yang memungkinkan pengguna untuk terhubung ke internet dengan aman dan terenkripsi. Apakah kepanjangan dari VPN…',
+        question: 'Dalam proses editing, file hasil rekaman video biasanya disimpan dalam format apa yang umum digunakan di berbagai software?',
         timeLimit: 10,
       },
       {
-        question: 'Jenis penjadwalan proses dimana proses pertama yang ada yang di eksekusi disebut dengan ...',
+        question: 'Untuk kebutuhan distribusi audio online, format apa yang paling sering digunakan karena ukurannya kecil dan mudah diunggah? ',
         timeLimit: 10,
       },
       {
-        question: 'Sistem bilangan yang menggunakan enam belas angka, yaitu 0 hingga 9 dan A hingga F, dikenal dengan sebutan ?',
+        question: 'Format file gambar yang paling umum digunakan, yang ukurannya lebih kecil karena telah melalui proses kompresi data, adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Warna yang digunakan untuk mencerminkan kesucian dan kemurnian umumnya adalah ?',
+        question: 'Komputer ENIAC membutuhkan daya listrik sebesar...',
         timeLimit: 10,
       },
       {
-        question: 'Cara komputer melakukan representasi suara dalam bentuk angka biner disebut sebagai... ',
+        question: 'Berapakah hasil perkalian 101₂ × 11₂ dalam sistem biner?',
+        timeLimit: 15,
+      },
+      {
+        question: 'Istilah untuk mencoba menebak password dengan banyak kombinasi disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Dalam sistem operasi, antarmuka dibagi menjadi dua, yaitu CLI (Command Line Interface) dan GUI. GUI merupakan singkatan dari?',
+        question: 'Jenis IP yang digunakan di jaringan lokal dan tidak bisa diakses langsung dari internet adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Komputer generasi kelima berfokus pada?',
+        question: 'Alasan utama mengapa topologi star lebih diutamakan dalam instalasi jaringan modern dibandingkan topologi bus adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Apa Jarak antara objek terdekat dan terjauh yang terlihat tajam dalam foto ?',
+        question: 'Fitur keamanan bawaan Windows yang berfungsi untuk melindungi komputer dari lalu lintas jaringan yang mencurigakan atau tidak diinginkan adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Dalam pengalamatan IP dapat dilakukan secara otomatis menggunakan protocol DHCP, apa kepanjangan dari dengan DHCP?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Langkah awal dalam pembuatan naskah film adalah?',
+        question: 'Tata letak elemen visual dalam desain grafis disebut apa?',
         timeLimit: 10,
       },
     ],
     additionalQuestions: [
       {
-        question: 'Berapa banyak IP yang tersedia dalam subnet mask /30?',
+        question: 'Proses menggabungkan beberapa klip, menambahkan transisi, dan menyesuaikan durasi dalam software disebut apa?',
+        timeLimit: 10,
+      },
+      {
+        question: 'Dalam produksi musik profesional, file audio disimpan tanpa kompresi agar kualitas tetap sempurna. Format apakah yang digunakan?',
+        timeLimit: 10,
+      },
+      {
+        question: 'Aturan dasar komposisi yang menyarankan untuk menempatkan subjek utama di sepanjang garis atau titik persimpangan dari bidang yang dibagi menjadi sembilan bagian disebut...',
         timeLimit: 15,
       },
       {
-        question: 'Apakah perangkat yang digunakan untuk mengubah sinyal analog menjadi sinyal digital dalam jaringan internet …',
+        question: 'IBM 701 merupakan komputer generasi pertama yang populer dirilis pada tahun...',
         timeLimit: 10,
       },
       {
-        question: 'Dalam bilangan biner, 2^4 (2 pangkat 4) direpresentasikan sebagai suatu nilai. Berapakah representasi biner dari 2^4? ',
+        question: 'Konversikan bilangan biner 10101010₂ ke dalam sistem desimal! ',
         timeLimit: 15,
-      },
-      {
-        question: 'Warna yang digunakan untuk mencerminkan kebijakksanaan dan mengandung misteri umumnya adalah ?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Berapa jumlah titik Cahaya yang tersimpan dalam 1 MegaPixel ?',
-        timeLimit: 10,
-      },
-    ],
-  },
-  {
-    packName: 'F',
-    mainQuestions: [
-      {
-        question: 'Istilah yang digunakan untuk mendeskripsikan kelemahan suatu sistem yang dapat dimanfaatkan sebagai celah oleh pihak yang tidak bertanggung jawab adalah?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Berapa subnet mask jika kita ingin membuat 6 host dalam satu subnet?',
-        timeLimit: 15,
-      },
-      {
-        question: 'Warna yang digunakan untuk mencerminkan semangat dan kesuksesan umumnya adalah warna ?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Sistem Operasi Microsoft Windows pertama adalah ...',
-        timeLimit: 10,
-      },
-      {
-        question: 'Komputer personal pertama dari Apple adalah?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Bilangan desimal 255 jika dikonversi ke bilangan biner akan menghasilkan suatu nilai. Berapakah nilai biner dari bilangan desimal 255?',
-        timeLimit: 15,
-      },
-      {
-        question: 'Alamat unik yang dapat diakses dari internet dan digunakan untuk mengidentifikasi perangkat di jaringan global adalah definisi dari?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Proyek yang bertujuan untuk melaporkan suatu fakta atau kejadian yang benar-benar terjadi, biasanya disajikan dalam bentuk naratif yang menggabungkan unsur wawancara untuk memperkaya informasi yang disampaikan, disebut sebagai proyek... ',
-        timeLimit: 10,
-      },
-      {
-        question: 'Teknik pengambilan gambar di mana kamera dipindahkan secara halus mendekati atau menjauh dari subjek menggunakan alat dolly disebut…',
-        timeLimit: 10,
-      },
-      {
-        question: 'Gangguan visual yang muncul sebagai butiran atau pixel yang tidak diinginkan disebut?',
-        timeLimit: 10,
-      },
-    ],
-    contentionQuestions: [
-      {
-        question: 'Teknik yang digunakan untuk menggunakan elemen di sekitar subjek untuk menyoroti objek utama adalah?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Botnet adalah jaringan komputer yang telah terinfeksi malware dan dikendalikan oleh pihak tertentu, yang dikenal sebagai botmaster atau bot-herder. Istilah botnet merupakan gabungan dari dua kata yaitu',
-        timeLimit: 10,
-      },
-      {
-        question: 'Jumlah maksimal data yang dapat dikirimkan atau diterima melalui suatu jaringan dalam waktu tertentu. Merupakan definisi dari …',
-        timeLimit: 10,
-      },
-      {
-        question: 'Gerakan horizontal kamera mengikuti objek bergerak atau memperlihatkan pemandangan luas secara bertahap tanpa memindahkan posisi tripod secara fisik disebut…',
-        timeLimit: 10,
-      },
-      {
-        question: 'Proses verifikasi identitas pengguna disebut juga ...',
-        timeLimit: 10,
-      },
-      {
-        question: 'Kapan microprocessor ditemukan?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Operasi logika OR antara 1010 dan 0101 menghasilkan suatu nilai. Berapakah hasil operasi OR tersebut dalam bilangan biner? ',
-        timeLimit: 15,
-      },
-      {
-        question: 'Jenis IP yang digunakan di jaringan lokal dan tidak bisa diakses langsung dari internet adalah?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Agar audio terdengar seimbang antara speaker kiri dan kanan  digunakan efek khusus untuk mengontrol distribusi volume, memastikan suara dialog, musik, dan efek suara terdengar proporsional di kedua sisi. Efek ini disebut?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Ekstensi file yang dihasilkan daari aplikasi corel draw adalah ',
-        timeLimit: 10,
-      },
-    ],
-    additionalQuestions: [
-      {
-        question: 'Berapa nilai maksimum dan minimum dalam mode grayscale',
-        timeLimit: 10,
-      },
-      {
-        question: 'Fragmentasi di dalam blok memori?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Apa kepanjangan dari UNIVAC?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Bilangan desimal 127 jika dikonversi ke bilangan biner akan menghasilkan suatu nilai. Berapakah nilai biner dari bilangan desimal 127?',
-        timeLimit: 15,
-      },
-      {
-        question: 'Berapakah rentang IP private kelas B?',
-        timeLimit: 10,
-      },
-    ],
-  },
-  {
-    packName: 'G',
-    mainQuestions: [
-      {
-        question: 'Pencampuran 2 warna atau lebih dengan transisi antara keduanya dalam desain disebut ?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Pengendali perangkat keras pada Operating System disebut ...',
-        timeLimit: 10,
-      },
-      {
-        question: 'Susunan elemen visual dalam sebuah gambar dikenal dengan istilah?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Pada tahun berapakah, Jarkko Oikarinen menemukan Internet Relay Chat (IRC) yang memungkinkan pengguna komputer berinteraksi secara langsung …',
-        timeLimit: 10,
-      },
-      {
-        question: 'Siapakah tokoh utama di balik pemrograman ENIAC?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Jenis jaringan komputer dimana server melayani permintaan client adalah ...',
-        timeLimit: 10,
-      },
-      {
-        question: 'Tahap akhir dalam sebuah produksi (setelah syuting) yang melibatkan berbagai proses seperti pengeditan gambar, penambahan judul, grafik, animasi, efek khusus, musik, efek suara, dubbing audio, serta menghasilkan output ke media video, disebut sebagai proses...',
-        timeLimit: 10,
-      },
-      {
-        question: 'Rizki mendapati bahwa akun dan informasi pribadinya telah dicuri. Ia menyadari bahwa dia telah menginstal perangkat lunak dari sumber yang tidak dikenal di laptopnya. Ternyata, perangkat lunak tersebut merekam semua yang dia ketik dan mengirimkannya kepada peretas. Perangkat lunak tersebut adalah?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Dalam sebuah produksi film, orang bertanggung jawab atas visi kreatif film, mengarahkan aktor, menentukan gaya visual, dan bekerja sama dengan tim produksi untuk memastikan semua elemen terintegrasi dengan baik disebut…',
-        timeLimit: 10,
-      },
-      {
-        question: 'Berapa IP Broadcast dari IP 192.168.10.90/24?',
-        timeLimit: 15,
-      },
-    ],
-    contentionQuestions: [
-      {
-        question: 'Aldi memiliki server database yang tiba-tiba tidak dapat diakses. Lalu ia menerima pesan yang meminta tebusan uang agar datanya dapat dikembalikan. Serangan ini disebut?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Memastikan pengiriman data yang andal dan mengatur pemecahan data menjadi segmen, merupakan fungsi utama dari lapisan OSI …',
-        timeLimit: 10,
-      },
-      {
-        question: 'Teknik membagi memori menjadi halaman kecil?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Garis cakrawala alam yang dapat dilihat sebagai batas antara permukaan laut dan langit dinamakan dengan garis ?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Apa kepanjangan dari ENIAC?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Bilangan biner 11001100 jika dikonversi ke bilangan hexadesimal akan menghasilkan suatu nilai. Berapakah nilai hexadesimal dari bilangan biner 11001100?',
-        timeLimit: 15,
-      },
-      {
-        question: 'Daya tangkap pendengaran manusia secara umum berada antara... ',
-        timeLimit: 10,
-      },
-      {
-        question: 'Proses membagi satu jaringan IP menjadi beberapa subnet yang lebih kecil untuk meningkatkan efisiensi penggunaan alamat IP dan meningkatkan keamanan, merupakan definisi dari?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Dalam pementasan, penempatan aktor di ruang panggung selama adegan serta gerakan mereka selama pertunjukan untuk menciptakan komposisi visual yang menarik bagi penonton disebut…',
-        timeLimit: 10,
-      },
-      {
-        question: 'Foto dengan subjek gelap di depan latar belakang yang terang dikenal sebagai?',
-        timeLimit: 10,
-      },
-    ],
-    additionalQuestions: [
-      {
-        question: 'Operasi logika XOR antara 1100 dan 1010 menghasilkan suatu nilai. Berapakah hasil operasi XOR tersebut dalam bilangan biner?',
-        timeLimit: 15,
-      },
-      {
-        question: 'Tahap di mana suara-suara tersebut dicampur sesuai dengan kebutuhan berdasarkan naskah disebut sebagai... ',
-        timeLimit: 10,
-      },
-      {
-        question: 'Fade in adalah transisi dari hitam ke gambar penuh sedangkan, transisi dari gambar penuh ke hitam disebut ?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Proses yang dilakukan untuk memperbaiki atau memodifikasi gambar setelah pengambilan adalah?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Berapa subnet mask jika kita ingin membuat 14 host dalam satu subnet?',
-        timeLimit: 15,
-      },
-    ],
-  },
-  {
-    packName: 'H',
-    mainQuestions: [
-      {
-        question: 'Proses memilih jalur sepanjang data dapat ditransfer dari sumber ke tujuan merupakan definisi dari?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Operasi penjumlahan bilangan biner 1111 + 1 menghasilkan suatu nilai. Berapakah hasil penjumlahan tersebut dalam bilangan biner?',
-        timeLimit: 15,
-      },
-      {
-        question: 'Teknologi komputer generasi keempat menggunakan teknologi ?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Sebuah perangkat lunak yang terdapat di dalam Read Only Memory (ROM) pada sebuah motherboard yang bertugas menghubungkan motherboard dengan Sistem Operasi adalah ...',
-        timeLimit: 10,
-      },
-      {
-        question: 'Pembatasan kecepatan internet oleh ISP setelah pengguna melebihi batas tertentu dari penggunaan data, merupakan definisi dari …',
-        timeLimit: 10,
-      },
-      {
-        question: 'SSL/TLS adalah protokol komunikasi yang berfungsi untuk mengamankan data yang ditransfer di jaringan atau internet. Apa kepanjangan dari SSL dan TLS?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Teknik pengambilan gambar dengan shutter speed lambat disebut?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Orang yang bertanggung jawab menyusun footage menjadi narasi koheren melalui pemotongan klip-kip tidak perlu serta menambahkan elemen audio-visual lainnya seperti musik latar dan efek suara disebut…',
-        timeLimit: 10,
-      },
-      {
-        question: 'Pada tahap ini, suara yang sudah direkam dimasukkan ke dalam sistem agar bisa diolah lebih lanjut sesuai dengan kebutuhan proyek. Proses ini dikenal sebagai...',
-        timeLimit: 10,
-      },
-      {
-        question: 'Warna yang digunakan untuk mencerminkan kedamaian dan ketenangan umumnya adalah warna ?',
-        timeLimit: 10,
-      },
-    ],
-    contentionQuestions: [
-      {
-        question: 'Johan sedang mengakses server jarak jauh menggunakan remote. Untuk memastikan koneksi yang aman, Johan menggunakan protokol yang dikenal dengan SSH. Apa kepanjangan dari SSH? ',
-        timeLimit: 10,
-      },
-      {
-        question: 'Perngkat keras jaringan yang memiliki fungsi menghubungkan perangkat dalam satu jaringan lokal (LAN) dan mengatur pengiriman data antar perangkat disebut …',
-        timeLimit: 10,
-      },
-      {
-        question: 'Teknik untuk mencegah akses ke file yang tidak diinginkan dengan cara mengubah isinya dengan bahasa yang tidak dimengerti disebut dengan ...',
-        timeLimit: 10,
-      },
-      {
-        question: 'Teknologi Apa yang menggantikan vacuum di generasi kedua?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Pengaturan warna untuk mengatur Tingkat ketajaman hitam dan putih disebut',
-        timeLimit: 10,
-      },
-      {
-        question: 'Dalam sebuah adegan film di mana karakter utama berdiri di tengah lapangan luas dan kamera secara perlahan menjauh darinya, menciptakan perspektif yang menunjukkan betapa kecilnya dia dibandingkan dengan luasnya dunia di sekitarnya, ini merupakan contoh dari teknik yang disebut...',
-        timeLimit: 10,
-      },
-      {
-        question: 'Bilangan biner 11110000 jika dikonversi ke bilangan oktal akan menghasilkan suatu nilai. Berapakah nilai oktal dari bilangan biner 11110000?',
-        timeLimit: 15,
-      },
-      {
-        question: 'Perangkat jaringan yang berfungsi untuk menghubungkan dua atau lebih jaringan komputer yang berbeda adalah?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Dalam Teknik editing, potongan gambar close-up dari detail tertentu dari adegan utama untuk menambah informasi atau emosi pada cerita disebut…',
-        timeLimit: 10,
-      },
-      {
-        question: 'Seni yang digunakan untuk memanipulasi cahaya untuk menciptakan efek tertentu dalam foto adalah?',
-        timeLimit: 10,
-      },
-    ],
-    additionalQuestions: [
-      {
-        question: 'Proses yang dilakukan untuk memperbaiki atau memodifikasi gambar setelah pengambilan adalah?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Siapa yang membuat Bahasa pemrograman BASIC?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Berapakah rentang IP private kelas C?',
-        timeLimit: 15,
-      },
-      {
-        question: 'Ketika sebuah objek bergerak dari kanan ke kiri dalam pengambilan gambar pertama, arah gerak yang sama harus dipertahankan dalam pengambilan gambar kedua, kecuali jika perpindahan melintasi garis sumbu (axis) secara jelas diperlihatkan kepada penonton. Aturan ini merupakan salah satu elemen penting dalam komposisi visual yang dikenal sebagai... ',
-        timeLimit: 10,
-      },
-      {
-        question: 'Berapa banyak IP yang tersedia dalam subnet mask /26?',
-        timeLimit: 15,
-      },
-    ],
-  },
-  {
-    packName: 'I',
-    mainQuestions: [
-      {
-        question: 'Fotografi yang menangkap kehidupan sehari-hari di ruang publik disebut?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Berapa subnet mask untuk IP Address dengan prefix /27?',
-        timeLimit: 15,
-      },
-      {
-        question: 'Jaringan komputer pertama yang dikembangkan oleh Departemen Pertahanan Amerika Serikat dan menjadi cikal bakal internet adalah?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Sebuah perangkat lunak yang bertugas untuk menghidupkan atau menjalankan atau menginstall sebuah Sistem Operasi adalah ...',
-        timeLimit: 10,
-      },
-      {
-        question: 'Dalam pementasan, penempatan aktor di ruang panggung selama adegan serta gerakan mereka selama pertunjukan untuk menciptakan komposisi visual yang menarik bagi penonton disebut…',
-        timeLimit: 10,
-      },
-      {
-        question: 'Lapisan OSI manakah yang bertanggung jawab untuk pemeliharaan sesi komunikasi antara dua perangkat …',
-        timeLimit: 10,
-      },
-      {
-        question: 'Serangan DDoS bertujuan untuk mengganggu ketersediaan bahkan mematikan layanan. Kepanjangan dari DDoS adalah?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Rentang daya tangkap tersebut biasanya berada dalam kisaran frekuensi minimum dan maksimum yang dapat dideteksi oleh telinga manusia. Dengan kata lain, daya tangkap pendengaran manusia secara umum berada antara... ',
-        timeLimit: 10,
-      },
-      {
-        question: 'Berfungsi untuk menghubungkan jaringan local atau LAN dengan jaringan publik atau internet atau bisa sebaliknya dan diibaratkan sebagai pintu keluar/masuk atau sebagai sebuah gerbang antara LAN dengan Internet merupakan definisi dari?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Gambar solid dalam sebuah desain menggunakan berapa warna dalam penerapannya ?',
-        timeLimit: 10,
-      },
-    ],
-    contentionQuestions: [
-      {
-        question: 'Berapa subnet mask untuk IP Address dengan prefix /24?',
-        timeLimit: 15,
-      },
-      {
-        question: 'IPv4 adalah protokol internet yang dalam menunjang komunikasi data dalam jaringan komputer yang mampu mengidentifikasi setiap alamat unik perangkat yang terhubung ke internet. Pertanyaannya adalah berapa panjang bit dari IPv4?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Ilustrasi berasal dari Bahasa latin illustrate yang berarti ?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Berapakah rentang IP private kelas A?',
-        timeLimit: 15,
-      },
-      {
-        question: 'Interface berbasis teks di dalam Sistem Operasi biasanya disebut dengan ...',
-        timeLimit: 10,
-      },
-      {
-        question: 'Android, Ubuntu dan CentOS merupakan Operating System berbasis ...',
-        timeLimit: 10,
-      },
-      {
-        question: 'Perngkat keras jaringan yang memiliki fungsi menghubungkan perangkat dalam satu jaringan lokal (LAN) dan mengatur pengiriman data antar perangkat disebut …',
-        timeLimit: 10,
-      },
-      {
-        question: 'Apa yang dimaksud dengan sampling rate… ',
-        timeLimit: 10,
-      },
-      {
-        question: 'Jenis topologi yang memiliki node tengah sebagai pusat penghubung dari suatu jaringan adalah topologi …',
-        timeLimit: 10,
-      },
-      {
-        question: 'Penggunaan elemen visual untuk menyampaikan pesan atau makna tertentu adalah?',
-        timeLimit: 10,
-      },
-    ],
-    additionalQuestions: [
-      {
-        question: 'Kamera statis tidak bergerak selama pengambilan gambar, sedangkan kamera yang dapat dipindahkan untuk mengikuti objek disebut? ',
-        timeLimit: 10,
-      },
-      {
-        question: 'Berapa banyak IP yang tersedia dalam subnet mask /29?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Komputer komersial pertama di dunia adalah?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Fragmentasi antar blok memori?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Metode yang digunakan komputer untuk merepresentasikan gelombang suara melibatkan pengubahannya menjadi serangkaian angka yang dikenal dengan istilah bilangan biner, yang memungkinkan komputer memproses dan menyimpan informasi audio dengan efisien disebut sebagai... ',
-        timeLimit: 10,
       },
     ],
   },
@@ -984,107 +548,107 @@ const questionData = [
     packName: 'SM A',
     mainQuestions: [
       {
-        question: 'Dalam dunia website, kita pasti tidak asing dengan istilah HTTP dan HTTPS. Keduanya memiliki perbedaan yang signifikan. Apakah kepanjangan dari HTTPS?',
+        question: 'Jika videografer ingin memperkenalkan lokasi kejadian dalam sebuah film sebelum menampilkan karakter, jenis shot apa yang digunakan?',
         timeLimit: 10,
       },
       {
-        question: 'Kabel yang digunakan untuk mentransmisikan sinyal data dalam jaringan televisi kabel atau jaringan internet kecepatan tinggi adalah… ',
-        timeLimit: 10,
-      },
-      {
-        question: 'Alamat IP yang digunakan untuk mengirim informasi ke semua perangkat yang terhubung ke jaringan komputer adalah definisi dari?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Berapa Jumlah warna yang dapat ditampilkan dalam mode grayscale…?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Area di sekitar fokus yang tampak tajam dalam gambar; dapat diatur dengan mengubah aperture lensa, jarak subjek, atau panjang fokus lensa disebut…',
-        timeLimit: 10,
-      },
-      {
-        question: 'Sebuah perangkat lunak yang bertugas menginstall komponen–komponen untuk OS secara mudah dan otomatis dengan Command Interface disebut…?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Siapa pendiri Apple…? ',
-        timeLimit: 10,
-      },
-      {
-        question: 'Menyusun hasil trim tersebut ke dalam timeline menggunakan metode lift dan overlay, sehingga dapat menciptakan alur cerita yang lebih baik. Proses yang dilakukan oleh editor ini dikenal sebagai... (Trimming) (WAKTU 10 DETIK)',
-        timeLimit: 10,
-      },
-      {
-        question: 'Bilangan desimal 42 jika dikonversi ke bilangan biner akan menghasilkan suatu nilai. Berapakah nilai biner dari bilangan desimal 42? ',
+        question: 'Jenis kompresi yang mempertahankan seluruh kualitas asli tanpa kehilangan data disebut apa?',
         timeLimit: 15,
       },
       {
-        question: 'Sensitivitas sensor kamera terhadap cahaya disebut?',
+        question: 'Teknik pengambilan gambar di mana kamera diposisikan lebih rendah dari subjek untuk menciptakan kesan subjek yang besar, kuat, atau dominan disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Teknologi kunci yang menggantikan tabung vakum pada komputer generasi kedua, sehingga ukurannya menjadi lebih kecil, cepat, dan hemat energi, adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Berapakah hasil operasi NOT dari 1010₂ (untuk 4-bit)?',
+        timeLimit: 15,
+      },
+      {
+        question: 'Teknik Social Engineering yang berpura-pura jadi orang terpercaya untuk mencuri data disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Alamat unik yang dapat diakses dari internet dan digunakan untuk mengidentifikasi perangkat di jaringan global adalah definisi dari...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Fungsi utama perangkat switch yang membedakannya dari hub adalah kemampuannya untuk...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Teknologi yang memungkinkan sistem operasi memanfaatkan sebagian ruang pada hard disk sebagai memori tambahan ketika kapasitas RAM tidak mencukupi disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Dalam desain grafis terdapat istilah yang berfungsi untuk memberikan ruang napas, fokus, dan meningkatkan keterbacaan elemen. Apa nama istilah tersebut?',
         timeLimit: 10,
       },
     ],
     contentionQuestions: [
       {
-        question: 'Malware adalah perangkat lunak berbahaya yang dibuat oleh penjahat siber untuk merusak, mencuri, atau mengubah data pada komputer atau jaringan. Benar atau salah: Malware dapat merusak hardware?',
+        question: 'Dalam pengambilan gambar percakapan dua orang, mengapa aturan 180 derajat penting untuk dipatuhi?',
         timeLimit: 10,
       },
       {
-        question: 'WiFi adalah teknologi jaringan nirkabel yang memungkinkan perangkat elektronik terhubung ke internet tanpa kabel. Apa kepanjangan dari WiFi …',
+        question: 'Untuk menambah kesan ruang dan pantulan pada vokal agar terdengar seperti direkam di ruangan besar, efek audio apa yang digunakan?',
         timeLimit: 10,
       },
       {
-        question: 'Operasi perkalian bilangan biner 101 x 11 menghasilkan suatu nilai. Berapakah hasil perkalian tersebut dalam bilangan biner? ',
+        question: 'Filter yang dipasang di depan lensa untuk mengurangi intensitas cahaya yang masuk tanpa mengubah warnanya, sangat berguna saat memotret di bawah terik matahari, adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Bahasa tingkat tinggi yang populer pada generasi kedua adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Konversikan bilangan desimal 255 ke dalam sistem biner!',
         timeLimit: 15,
       },
       {
-        question: 'Foto yang mendokumentasikan peristiwa nyata atau isu sosial disebut?',
+        question: 'Perangkat keras yang bisa dipasang di jaringan untuk melindungi dari ancaman disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Dalam editing audio, efek apa yang digunakan untuk menambah kedalaman suara…',
+        question: 'Berapakah rentang IP private kelas A?',
         timeLimit: 10,
       },
       {
-        question: 'Seperangkat peraturan yang melindungi sistem operasi dari serangan melalui jaringan adalah?',
+        question: 'Dua keunggulan utama yang dimiliki oleh kabel fiber optic dibandingkan dengan kabel UTP adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Apa bahasa pemrograman pertama?',
+        question: 'Struktur hierarkis yang digunakan dalam sistem operasi untuk menyimpan, mengelompokkan, dan mengatur file disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Foto dengan pencahayaan rendah dan dominasi bayangan dikenal sebagai?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Operasi pembagian bilangan biner 1100 ÷ 11 menghasilkan suatu nilai. Berapakah hasil pembagian tersebut dalam bilangan biner? ',
-        timeLimit: 15,
-      },
-      {
-        question: 'Teknik memperlambat kecepatan gerakan dalam video dan dapat dicapai dengan merekam pada frame rate tinggi kemudian memutar kembali pada frame rate standar disebut…',
+        question: 'Ukuran ketajaman gambar digital yang diukur dalam satuan dpi disebut... ',
         timeLimit: 10,
       },
     ],
     additionalQuestions: [
       {
-        question: 'Andi menerima email yang menyatakan e-wallet-nya terancam diblokir dan diminta untuk memperbarui data melalui tautan yang dikirim. Setelah membuka tautan tersebut, Andi mendapati saldo e-wallet-nya habis. Serangan apakah ini…?',
+        question: 'SSL adalah protokol keamanan lama yang dapat dipakai untuk melindungi komunikasi internet dengan enkripsi. Apa kepanjangan dari SSL?',
         timeLimit: 10,
       },
       {
-        question: 'OSI Layer adalah model jaringan yang digunakan untuk mengirimkan pesan antar perangkat. Sebutkan urutan OSI Layer dari bawah …',
-        timeLimit: 15,
-      },
-      {
-        question: 'Dalam bilangan biner, operasi pergeseran bit ke kanan (right shift) satu posisi pada 1010 menghasilkan suatu nilai. Berapakah hasil operasi tersebut dalam bilangan biner…? ',
-        timeLimit: 15,
-      },
-      {
-        question: 'Alat yang digunakan untuk menangkap gambar atau video adalah?',
+        question: 'Berapakah rentang IP private kelas B?',
         timeLimit: 10,
       },
       {
-        question: 'Warna yang memiliki kecerahan tetapi tidak memiliki rona dan saturasi disebut warna…? ',
+        question: 'Tujuan utama dari pengembangan model OSI dan TCP/IP dalam dunia jaringan adalah untuk...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Alamat lengkap yang menunjukkan lokasi suatu file di dalam struktur penyimpanan sistem operasi disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Template yang digunakan untuk menampilkan simulasi hasil desain produk disebut...',
         timeLimit: 10,
       },
     ],
@@ -1093,216 +657,325 @@ const questionData = [
     packName: 'SM B',
     mainQuestions: [
       {
-        question: 'MITM adalah serangan dimana penyerang menyusup di antara dua pihak yang berkomunikasi untuk mencuri data yang sedang ditransfer. MITM merupakan singkatan dari?',
+        question: 'Kamera apa yang digunakan ketika videografer membutuhkan fleksibilitas mengganti lensa sesuai kebutuhan pengambilan gambar?',
         timeLimit: 10,
       },
       {
-        question: 'WAN digunakan untuk menghubungkan pengguna dan aplikasi di berbagai lokasi yang tersebar secara geografis, seperti di seluruh dunia. WAN tidak terikat ke lokasi tertentu sehingga memungkinkan jaringan lokal untuk saling berkomunikasi satu sama lain melewati jarak yang jauh. Apa kepanjangan dari WAN …',
+        question: ' Film asing yang menampilkan teks terjemahan di bawah layar menggunakan fitur apa?',
         timeLimit: 10,
       },
       {
-        question: 'Digunakan untuk membagi alamat IP menjadi dua bagian: Network ID dan Host ID. dan dapat membantu menentukan jaringan mana yang digunakan dan jumlah host di setiap subnet, adalah fungsi dari?',
+        question: 'Jenis lensa yang hanya memiliki satu ukuran focal length (misalnya 50mm atau 85mm) dan tidak bisa melakukan zoom disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Sebutkan 3 unsur yang membuat warna dapat terlihat ?',
+        question: 'Komputer mainframe IBM 1401 yang sangat populer pada era generasi kedua dirancang secara spesifik untuk kebutuhan...',
         timeLimit: 10,
       },
       {
-        question: 'Teknik editing yang menggabungkan serangkaian klip pendek menjadi satu urutan untuk menunjukkan perkembangan waktu atau perubahan situasi secara cepat disebut…',
-        timeLimit: 10,
-      },
-      {
-        question: 'Mekanisme penghentian sementara CPU?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Siapa Pendiri Microsoft?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Teknik ini digunakan untuk memberikan kesan bahwa karakter ini sedang mengalami kembali peristiwa yang sudah berlalu dengan cepat. Adegan balik yang dipercepat ini dikenal sebagai...',
-        timeLimit: 10,
-      },
-      {
-        question: 'Bilangan oktal 17 jika dikonversi ke bilangan biner akan menghasilkan suatu nilai. Berapakah nilai biner dari bilangan oktal 17? ',
+        question: 'Hitunglah hasil pembagian 1100₂ ÷ 11₂ dalam sistem biner!',
         timeLimit: 15,
       },
       {
-        question: 'Foto yang diambil tanpa pengaturan atau persiapan sebelumnya dikenal sebagai?',
+        question: 'SSL sekarang sudah banyak digantikan oleh protokol?',
+        timeLimit: 10,
+      },
+      {
+        question: 'Berapakah rentang IP private kelas C?',
+        timeLimit: 10,
+      },
+      {
+        question: 'Dampak negatif utama yang terjadi jika sebuah hub digunakan pada jaringan dengan banyak perangkat adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Kombinasi tombol keyboard yang umum digunakan untuk mengunci layar (lock screen) pada sistem operasi Windows adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Dalam desain grafis terdapat dua format warna, yaitu RGB dan CMYK. Format warna yang digunakan untuk hasil desain cetak disebut apa?',
         timeLimit: 10,
       },
     ],
     contentionQuestions: [
       {
-        question: 'Akbar sedang mengakses sebuah website untuk mencari sebuah informasi. Protokol yang digunakan untuk mentransfer data pada website adalah?  ',
+        question: 'Saat merekam gedung tinggi dari bawah ke atas secara vertikal, gerakan kamera yang digunakan disebut apa?',
         timeLimit: 10,
       },
       {
-        question: 'Kabel ini memiliki kecepatan transfer data yang tinggi, bisa mencapai 1000 mbps, digunakan untuk mengirimkan data dalam bentuk sinyal cahaya melalui serat optik. Merupakan ciri-ciri dari kabel …',
+        question: 'Sebelum proses shooting, sutradara membuat sketsa urutan adegan sebagai panduan pengambilan gambar. Dokumen ini disebut apa?',
         timeLimit: 10,
       },
       {
-        question: 'Dalam sistem bilangan biner, berapakah jumlah digit yang diperlukan untuk merepresentasikan bilangan desimal 15? ',
+        question: 'Mode pemotretan pada kamera yang memungkinkan pengambilan beberapa foto secara beruntun dengan sekali menekan tombol shutter disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Penemuan yang menjadi ciri khas komputer generasi ketiga, di mana ribuan transistor dan komponen lainnya diintegrasikan ke dalam satu keping silikon kecil, adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Konversikan bilangan biner 1010₂ ke dalam sistem oktal!',
         timeLimit: 15,
       },
       {
-        question: 'Untuk mensetting kalimat dengan semua huruuuf kecil bisa menggunakan tools ?',
+        question: 'Proses mencatat aktivitas pengguna dalam jaringan untuk keperluan keamanan disebut?',
         timeLimit: 10,
       },
       {
-        question: 'Proses yang dilakukan oleh komputer untuk mengambil hasil dari pekerjaan editing dan mengubahnya menjadi format file tertentu, sehingga dapat disimpan atau dipublikasikan, dikenal dengan istilah...',
-        timeLimit: 10,
-      },
-      {
-        question: 'Nama file sistem pada Sistem Operasi Linux adalah...',
-        timeLimit: 10,
-      },
-      {
-        question: 'Apa teknologi komputer generasi pertama?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Jumlah cahaya yang masuk ke kamera untuk menghasilkan gambar adalah?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Bilangan biner 1111 jika dikonversi ke bilangan desimal akan menghasilkan suatu nilai. Berapakah nilai desimal dari bilangan biner 1111?',
+        question: 'Berapa banyak IP yang tersedia dalam subnet mask /25?',
         timeLimit: 15,
       },
       {
-        question: 'Video yang menyajikan fakta dan realitas disebut…',
+        question: 'Alasan paling mendasar penggunaan jaringan komputer di lingkungan sekolah (seperti lab atau perpustakaan) adalah untuk...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Sistem operasi yang dikembangkan oleh Apple Inc. untuk digunakan pada jajaran komputer Macintosh adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Visualisasi penyajian data agar mudah dipahami dan menarik disebut...',
         timeLimit: 10,
       },
     ],
     additionalQuestions: [
       {
-        question: 'Andi memiliki sebuah website yang menjadi sangat lambat ketika diakses. Setelah diperiksa melalui admin panel, ternyata website tersebut dibanjiri oleh lalu lintas yang sangat tinggi. Serangan DDoS bertujuan untuk mengganggu ketersediaan bahkan mematikan layanan. Kepanjangan dari DDoS adalah?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Bilangan biner 1111 1111 1111 1111 jika dikonversi ke bilangan desimal akan menghasilkan suatu nilai. Berapakah nilai desimal tersebut? ',
+        question: 'Mengapa penggunaan microphone eksternal penting dalam produksi video profesional?',
         timeLimit: 15,
       },
       {
-        question: 'Berapakah IP Network dari IP 192.168.10.50/29?',
+        question: 'Video yang dibuat untuk layar ponsel dan TV memiliki perbandingan ukuran yang berbeda. Perbandingan lebar dan tinggi ini dikenal sebagai apa?',
+        timeLimit: 10,
+      },
+      {
+        question: 'Penggunaan lensa telephoto (focal length panjang) pada fotografi potret cenderung membuat latar belakang tampak lebih dekat dan termampatkan. Efek ini dikenal sebagai...',
+        timeLimit: 10,
+      },
+      {
+        question: ' IBM S/360 diperkenalkan pada tahun...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Berapakah jumlah bit "1" dalam bilangan biner 11010101₂?',
         timeLimit: 15,
-      },
-      {
-        question: 'Dalam sebuah film drama yang berlangsung di malam hari, seorang karakter duduk sendirian di dalam ruangan yang remang-remang. Untuk menciptakan suasana malam yang intim dan misterius, sutradara memutuskan untuk menggunakan cahaya lampu yang hangat dan lembut, memberikan kesan tenang sekaligus menambah nuansa emosi pada adegan tersebut. Lampu-lampu ini tidak hanya menerangi ruangan, tetapi juga menciptakan bayangan yang dramatis, membuat penonton merasa seolah-olah mereka sedang berada di sana bersama karakter tersebut. Jenis cahaya lampu yang digunakan untuk menghasilkan suasana malam dalam ruangan ini dikenal sebagai...',
-        timeLimit: 10,
-      },
-      {
-        question: 'Sebutkan 3 teknik dasar dalam pengambilan gambar menggunakan kamera..',
-        timeLimit: 10,
       },
     ],
   },
   {
-    packName: 'Final',
+    packName: 'SM C',
     mainQuestions: [
       {
-        question: 'Salah satu manfaat adanya enkripsi adalah untuk keamanan data atau informasi. Bagaimana atau dengan cara apa enkripsi dapat mengamankan data?  ',
+        question: 'Teknik pencahayaan yang membuat subjek tampak bersinar dari belakang untuk efek siluet disebut apa?',
         timeLimit: 10,
       },
       {
-        question: 'Semakin rendah nilai ping, semakin cepat koneksi jaringan dan semakin baik kualitasnya. Ping adalah singkatan dari …',
+        question: 'Rekaman wawancara terdengar bising karena suara kipas di latar belakang. Teknik apa yang dapat digunakan untuk memperbaikinya?',
         timeLimit: 10,
       },
       {
-        question: 'Sistem yang berfungsi untuk menerjemahkan nama domain menjadi alamat IP sehingga perangkat di internet dapat saling terhubung adalah?',
+        question: 'Grafik visual pada layar kamera yang menunjukkan distribusi tingkat kecerahan (gelap-terang) dari sebuah foto disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Ilustrasi yang di bentuk dan disusun oleh Kumpulan pixel atau titik dinamakan sebagai Ilustrasi ?',
+        question: 'Komputer mini 16 bit pertama yang dibuat tahun 1969 adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Alat yang diberfungsi untuk menstabilkan kamera saat pengambilan gambar agar hasil video tidak goyang tanpa harus dipindahkan secara manual yaitu …',
-        timeLimit: 10,
-      },
-      {
-        question: 'Format file sistem yang digunakan di Windows adalah...',
-        timeLimit: 10,
-      },
-      {
-        question: 'Siapa yang menciptakan mesin Turing?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Apa yang diperkenalkan oleh Sony pada tahun 1982 yang mengubah cara orang mendengarkan music…',
-        timeLimit: 10,
-      },
-      {
-        question: 'Operasi pengurangan bilangan biner 1000 - 0011 menghasilkan suatu nilai. Berapakah hasil pengurangan tersebut dalam bilangan biner? ',
+        question: 'Konversikan bilangan heksadesimal A3₁₆ ke dalam sistem biner!',
         timeLimit: 15,
       },
       {
-        question: 'Efek blur pada latar belakang yang membuat objek utama lebih menonjol disebut?',
+        question: 'Virus komputer pertama di dunia bernama?',
+        timeLimit: 10,
+      },
+      {
+        question: 'Berapa banyak IP yang tersedia dalam subnet mask /28?',
+        timeLimit: 15,
+      },
+      {
+        question: 'Berdasarkan cakupan wilayah geografisnya, apa perbedaan utama antara LAN dan WAN?',
+        timeLimit: 10,
+      },
+      {
+        question: 'Firmware modern yang menggantikan BIOS, memiliki waktu boot lebih cepat, serta menawarkan fitur keamanan yang lebih baik disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Desain grafis yang menampilkan elemen visual bergerak, seperti animasi logo atau intro video, disebut...',
         timeLimit: 10,
       },
     ],
     contentionQuestions: [
       {
-        question: 'Saat menggunakan WhatsApp, terdapat pemberitahuan bahwa pesan yang kita kirim hanya dapat dilihat oleh kita dan penerima. Metode keamanan apakah yang digunakan?  ',
+        question: 'Sebelum proses shooting, gambaran visual setiap adegan biasanya dibuat dalam bentuk sketsa berurutan. Istilah untuk ini adalah apa?',
         timeLimit: 10,
       },
       {
-        question: 'Kejahatan siber untuk mendapatkan informasi sensitif, seperti username dan password, dengan menyamar sebagai entitas yang tepercaya; dapat diidentifikasi dengan melihat alamat email pengirim yang mencurigakan dan tautan yang tidak jelas. Merupakan definisi dari …',
+        question: 'Dalam rekaman musik, sistem dua saluran suara kanan dan kiri digunakan untuk memberikan kesan arah suara. Sistem ini disebut apa?',
         timeLimit: 10,
       },
       {
-        question: 'Sistem bilangan yang hanya menggunakan dua digit, yaitu 0 dan 1, disebut bilangan biner. Berapakah basis dari sistem bilangan biner? ',
+        question: 'Fitur pada kamera (biasanya dilambangkan ikon +/-) yang memungkinkan fotografer untuk secara manual mencerahkan atau menggelapkan hasil foto dari pengaturan otomatis kamera disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Jumlah titik persatuan luas yang mempengaruhi ketajaman dan detail file bitmap adalah ?',
+        question: 'Teknologi yang menandai komputer generasi keempat adalah pemadatan ribuan IC ke dalam satu chip, yang memungkinkan lahirnya mikroprosesor. Teknologi ini disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Kapan YouTube diluncurkan, yang menjadi platform penting bagi distribusi video online… ',
-        timeLimit: 10,
-      },
-      {
-        question: 'Sebutkan dua sistem operasi untuk perangkat mobile?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Siapakah pencipta World Wide Web (WWW)?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Proses untuk memotong bagian gambar dan mengubah komposisi adalah?',
-        timeLimit: 10,
-      },
-      {
-        question: 'Bilangan desimal 10 jika dikonversi ke bilangan biner menjadi suatu nilai. Berapakah nilai biner dari bilangan desimal 10? ',
+        question: 'Berapakah hasil left shift 1 posisi dari bilangan 1101₂?',
         timeLimit: 15,
       },
       {
-        question: 'Daftar semua pengambilan gambar yang direncanakan untuk produksi, penting untuk memastikan semua adegan diambil sesuai rencana disebut…',
+        question: 'Serangan siber di mana pelaku menyusup di antara komunikasi dua pihak tanpa sepengetahuan mereka disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Berapa banyak IP yang tersedia dalam subnet mask /31?',
+        timeLimit: 15,
+      },
+      {
+        question: 'Fungsi fundamental dari protokol dalam jaringan komputer adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Fitur pada sistem file modern seperti NTFS dan ext4 yang mencatat perubahan  sebelum benar-benar ditulis ke disk untuk mencegah korupsi data saat terjadi mati listrik disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Jenis keseimbangan visual yang memiliki susunan elemen sama di kedua sisi disebut apa?',
         timeLimit: 10,
       },
     ],
     additionalQuestions: [
       {
-        question: 'Apa itu AI dalam komputer? Jawaban: AI atau kecerdasan buatan adalah teknologi yang memungkinkan komputer untuk melakukan tugas-tugas yang biasanya memerlukan kecerdasan manusia, seperti pengenalan suara dan pemecahan masalah',
+        question: 'Jalur rahasia yang dibuat untuk akses ilegal ke dalam ssstem biasanya disebut dengan?',
         timeLimit: 10,
       },
       {
-        question: 'Berapakah range IP Host dari IP 192.168.10.45/27?',
+        question: 'Berapa panjang bit dari IPv4?',
         timeLimit: 15,
       },
       {
-        question: 'Pada suatu hari, Andi sedang menggunakan Wi-Fi publik di sebuah kafe. Ia tidak menyadari bahwa ada seseorang di dekatnya yang sedang menggunakan alat untuk memantau dan merekam semua data yang ditransfer melalui jaringan tersebut. Tindakan merekam atau melihat atau menganalisis trafik data pada jaringan dikenal dengan istilah',
+        question: 'Mengapa instalasi jaringan komputer dengan topologi mesh (penuh) jarang diimplementasikan secara praktis?',
         timeLimit: 10,
       },
       {
-        question: 'Dalam sebuah kursus tentang produksi audio, seorang instruktur menjelaskan kepada siswa mengenai pentingnya pengolahan audio dalam menciptakan konten berkualitas tinggi. Dia memberikan contoh bagaimana suara yang direkam perlu diproses agar dapat digunakan secara efektif dalam proyek. Proses ini melibatkan berbagai langkah, seperti mengedit, menambahkan efek, dan menghilangkan noise latar belakang. Sang instruktur menjelaskan bahwa inti dari pengolahan audio adalah...',
+        question: 'Pada sistem operasi Linux, perintah yang digunakan untuk mengubah hak akses (permissions) sebuah file atau direktori adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Di sebuah film petualangan, juru kamera memilih untuk mengambil gambar dari ketinggian yang cukup tinggi saat momen penting terjadi. Teknik ini menampilkan lingkungan sekitar terlihat lebih luas dan megah, sementara benda-benda lain di sekitar karakter tampak kecil, menciptakan kesan dramatis dan menegangkan. Teknik ini disebut sebagai.. ',
+        question: 'Sebutkan warna CMYK!',
+        timeLimit: 10,
+      },
+    ],
+  },
+    {
+    packName: 'FINAL',
+    mainQuestions: [
+      {
+        question: 'Dalam sebuah desain poster memiliki teks. Jarak antar baris dalam teks disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Software yang dapat digunakan untuk menjalankan beberapa system operasi lain dalam satu computer disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Untuk 20 komputer di laboratorium yang membutuhkan keandalan (tetap berjalan meski ada kabel putus), topologi jaringan yang paling tepat adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Proses membagi satu jaringan IP menjadi beberapa subnet yang lebih kecil untuk meningkatkan efisiensi penggunaan alamat IP dan meningkatkan keamanan, merupakan definisi dari...',
+        timeLimit: 10,
+      },
+      {
+        question: 'IDS merupakan sistem keamanan jaringan yang memantau dan mendeteksi aktivitas mencurigakan, biasanya dipasang di server. Apa kepanjangan dari IDS?',
+        timeLimit: 10,
+      },
+      {
+        question: 'Konversikan bilangan oktal 17₈ ke dalam sistem biner!',
+        timeLimit: 15,
+      },
+      {
+        question: 'Komputer mikro pada generasi keempat menggunakan komponen utama, bernama...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Periode singkat setelah matahari terbit atau sebelum terbenam, di mana cahaya berwarna keemasan dan lembut sehingga ideal untuk fotografi, dikenal sebagai...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Editor audio ingin mengatur keseimbangan antara bass, mid, dan treble agar suara lebih seimbang. Alat yang digunakan adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Saat merekam di luar ruangan dengan cahaya matahari sangat terang, alat apa yang dipasang di depan lensa untuk mengurangi intensitas cahaya?',
+        timeLimit: 10,
+      },
+    ],
+    contentionQuestions: [
+      {
+        question: 'Sebuah software memiliki format export SVG. Apa kepanjangan dari SVG ?',
+        timeLimit: 10,
+      },
+      {
+        question: 'Teknologi yang memungkinkan satu komputer menjalankan beberapa sistem operasi secara terisolasi disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Untuk menghubungkan 2 gedung sekolah yang terpisah sejauh 5 km, media transmisi kabel yang paling efisien dan tepat adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Berfungsi untuk menghubungkan jaringan lokal atau LAN dengan jaringan publik atau internet atau bisa sebaliknya dan diibaratkan sebagai pintu keluar/masuk adalah definisi dari...',
+        timeLimit: 10,
+      },
+      {
+        question: 'IDS yang bisa langsung memblokir serangan dinamakan...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Berapakah hasil right shift 2 posisi dari bilangan 11100₂?',
+        timeLimit: 15,
+      },
+      {
+        question: 'Personal Computer pertama yang populer dari Apple adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Periode waktu di mana matahari berada di bawah cakrawala dan sisa cahayanya membuat langit berwarna biru pekat, sering terjadi sebelum fajar atau setelah senja, disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Dalam audio digital, jumlah cuplikan suara yang direkam per detik memengaruhi kualitas hasil rekaman. Istilahnya adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Dalam wawancara, microphone kecil yang ditempel di pakaian talent agar suara tetap jelas disebut apa?',
+        timeLimit: 10,
+      },
+    ],
+    additionalQuestions: [
+      {
+        question: 'Generasi kelima komputer menekankan pada...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Konversikan bilangan desimal 100 ke dalam sistem biner!',
+        timeLimit: 15,
+      },
+      {
+        question: 'Prinsip CIA dalam keamanan informasi terdiri dari apa saja?',
+        timeLimit: 10,
+      },
+      {
+        question: 'Berapa IP Network dari IP 172.16.8.200/21?',
+        timeLimit: 15,
+      },
+      {
+        question: 'Jenis jaringan yang ideal dipilih oleh teknisi yang ingin membuat jaringan sederhana tanpa server terpusat, di mana semua komputer memiliki status setara?',
         timeLimit: 10,
       },
     ],
