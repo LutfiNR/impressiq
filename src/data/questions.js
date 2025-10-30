@@ -3,49 +3,49 @@ const questionData = [
     packName: 'A',
     mainQuestions: [
       {
-        question: 'Saat merekam film pendek dengan kualitas sinematik, kamera apa yang paling sering digunakan karena memiliki kemampuan mengganti lensa dan kontrol manual penuh terhadap cahaya?',
+        question: 'Saat merekam film pendek dengan kualitas sinematik, kamera yang paling sering digunakan karena memiliki kemampuan mengganti lensa dan kontrol manual penuh terhadap cahaya adalah ...',
         timeLimit: 10,
       },
       {
-        question: 'Alat hitung kuno tertua yang menggunakan manik-manik pada sebuah bingkai dan dianggap sebagai cikal bakal komputasi adalah?',
+        question: 'Alat hitung kuno tertua yang menggunakan manik-manik pada sebuah bingkai dan dianggap sebagai cikal bakal komputasi adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Saat merekam aksi olahraga cepat, hasil video terlihat patah-patah karena pergerakan tidak halus. Pengaturan apa yang harus ditingkatkan agar gerakan terlihat lebih mulus?',
+        question: 'Saat merekam aksi olahraga cepat, hasil video terlihat patah-patah karena pergerakan tidak halus. Pengaturan yang harus ditingkatkan agar gerakan terlihat lebih mulus adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Tiga elemen utama yang membentuk Exposure Triangle dalam fotografi adalah Aperture, ISO, dan...?',
+        question: 'Tiga elemen utama yang membentuk Exposure Triangle dalam fotografi adalah Aperture, ISO, dan...',
         timeLimit: 10,
       },
       {
-        question: 'Berapakah hasil penjumlahan 1101₂ + 1011₂ dalam sistem biner?….',
+        question: 'Berapakah hasil penjumlahan 1101₂ + 1011₂ dalam sistem biner….',
         timeLimit: 15,
       },
       {
-        question: 'Serangan dari satu komputer/mesin yang ngirim request atau trafik berlebihan ke server/layanan sampai down disebut?...',
+        question: 'Serangan dari satu komputer/mesin yang ngirim request atau trafik berlebihan ke server/layanan sampai down disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Protokol yang memberikan IP Secara Otomatis adalah?...',
+        question: 'Protokol yang memberikan IP Secara Otomatis adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Jaringan komputer yang hanya mencakup area geografis kecil, seperti dalam satu ruangan, gedung, atau kampus, disebut?...',
+        question: 'Jaringan komputer yang hanya mencakup area geografis kecil, seperti dalam satu ruangan, gedung, atau kampus, disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Bagian inti dari sistem operasi yang berfungsi sebagai jembatan antara perangkat lunak(software) dan perangkat keras(hardware) disebut?...',
+        question: 'Bagian inti dari sistem operasi yang berfungsi sebagai jembatan antara perangkat lunak(software) dan perangkat keras(hardware) disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Aliran desain yang menekankan kesederhanaan disebut?...',
+        question: 'Aliran desain yang menekankan kesederhanaan disebut...',
         timeLimit: 10,
       },
     ],
     contentionQuestions: [
       {
-        question: 'Sebuah file video tidak bisa diputar di komputer tertentu karena tidak memiliki komponen pengurai data yang sesuai. Sistem apa yang berperan dalam proses ini?...',
+        question: 'Sebuah file video tidak bisa diputar di komputer tertentu karena tidak memiliki komponen pengurai data yang sesuai. Sistem yang berperan dalam proses ini adalah...',
         timeLimit: 10,
       },
       {
@@ -53,27 +53,27 @@ const questionData = [
         timeLimit: 10,
       },
       {
-        question: 'Blaise Pascal menemukan kalkulator roda numerik yang disebut?...',
+        question: 'Blaise Pascal menemukan kalkulator roda numerik yang disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Berapakah hasil pengurangan 10110₂ - 1101₂ dalam sistem biner?...',
+        question: 'Berapakah hasil pengurangan 10110₂ - 1101₂ dalam sistem biner?',
         timeLimit: 15,
       },
       {
-        question: 'Jenis malware yang menyamar sebagai aplikasi normal disebut?...',
+        question: 'Jenis malware yang menyamar sebagai aplikasi normal disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Alamat unik yang diberikan pada setiap perangkat dalam jaringan agar dapat saling berkomunikasi disebut?...',
+        question: 'Alamat unik yang diberikan pada setiap perangkat dalam jaringan agar dapat saling berkomunikasi disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Perangkat keras yang dipasang di setiap komputer untuk memungkinkan koneksi fisik ke jaringan adalah?... ',
+        question: 'Perangkat keras yang dipasang di setiap komputer untuk memungkinkan koneksi fisik ke jaringan adalah... ',
         timeLimit: 10,
       },
       {
-        question: ' Untuk melihat daftar file dan folder pada direktori saat ini menggunakan Command Prompt (CMD) di Windows, perintah yang digunakan adalah …',
+        question: ' Untuk melihat daftar file dan folder pada direktori saat ini menggunakan Command Prompt (CMD) di Windows, perintah yang digunakan adalah...',
         timeLimit: 10,
       },
       {
@@ -81,7 +81,7 @@ const questionData = [
         timeLimit: 10,
       },
       {
-        question: 'Dalam proses pengambilan gambar, komponen kamera apa yang berfungsi menentukan seberapa banyak cahaya yang diterima sensor?',
+        question: 'Dalam proses pengambilan gambar, komponen kamera yang berfungsi menentukan seberapa banyak cahaya yang diterima sensor adalah...',
         timeLimit: 10,
       },
     ],
@@ -103,7 +103,7 @@ const questionData = [
         timeLimit: 15,
       },
       {
-        question: 'Teknologi yang memungkinkan pengguna mengakses jaringan secara aman melalui jalur terenkripsi, sering dipakai buat remote access disebut?',
+        question: 'Teknologi yang memungkinkan pengguna mengakses jaringan secara aman melalui jalur terenkripsi, sering dipakai buat remote access disebut...',
         timeLimit: 10,
       },
     ],
@@ -112,11 +112,11 @@ const questionData = [
     packName: 'B',
     mainQuestions: [
       {
-        question: 'Ketika merekam di ruangan minim cahaya, pengaturan kamera apa yang dapat ditingkatkan agar hasil gambar tetap terang tanpa menambah lampu?',
+        question: 'Ketika merekam di ruangan minim cahaya, pengaturan kamera yang dapat ditingkatkan agar hasil gambar tetap terang tanpa menambah lampu adalah ...',
         timeLimit: 10,
       },
       {
-        question: 'Setelah semua efek dan potongan video selesai diatur, editor mengekspor hasil akhir menjadi satu file video utuh. Proses ini disebut apa?',
+        question: 'Setelah semua efek dan potongan video selesai diatur, editor mengekspor hasil akhir menjadi satu file video utuh. Proses ini disebut...',
         timeLimit: 10,
       },
       {
@@ -140,7 +140,7 @@ const questionData = [
         timeLimit: 10,
       },
       {
-        question: 'Kemampuan sistem operasi untuk menjalankan beberapa program atau aplikasi secara bersamaan dalam satu waktu disebut...',
+        question: 'Sebuah Sistem operasi memiliki bagian inti yang berfungsi mengelola sumberdaya computer, Bagian ini bernama...',
         timeLimit: 10,
       },
       {
@@ -148,17 +148,17 @@ const questionData = [
         timeLimit: 10,
       },
       {
-        question: 'Desain grafis yang berbasis pada penggunaan komputer dan software disebut?',
+        question: 'Desain grafis yang berbasis pada penggunaan komputer dan software disebut...',
         timeLimit: 10,
       },
     ],
     contentionQuestions: [
       {
-        question: 'Jika sebuah adegan ingin menonjolkan kesan kekuasaan atau dominasi karakter, sudut pengambilan gambar mana yang paling tepat digunakan?',
+        question: 'Jika sebuah adegan ingin menonjolkan kesan kekuasaan atau dominasi karakter, sudut pengambilan gambar mana yang paling tepat digunakan...',
         timeLimit: 10,
       },
       {
-        question: 'Dalam software seperti DaVinci Resolve, area di mana semua klip video, audio, dan efek disusun sesuai urutan waktu disebut apa?',
+        question: 'Dalam software seperti DaVinci Resolve, area di mana semua klip video, audio, dan efek disusun sesuai urutan waktu disebut...',
         timeLimit: 10,
       },
       {
@@ -182,7 +182,7 @@ const questionData = [
         timeLimit: 15,
       },
       {
-        question: 'Jenis konektor standar yang umum digunakan pada kabel UTP (Unshielded Twisted Pair) untuk jaringan Ethernet adalah?',
+        question: 'Jenis konektor standar yang umum digunakan pada kabel UTP (Unshielded Twisted Pair) untuk jaringan Ethernet adalah...',
         timeLimit: 10,
       },
       {
@@ -200,11 +200,11 @@ const questionData = [
         timeLimit: 10,
       },
       {
-        question: 'Kepanjangan dari DHCP adalah?',
+        question: 'Kepanjangan dari DHCP adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Apakah kepanjangan dari WAN dalam konteks jaringan komputer?',
+        question: 'Kepanjangan dari WAN dalam konteks jaringan komputer adalah ...',
         timeLimit: 10,
       },
       {
@@ -221,11 +221,11 @@ const questionData = [
     packName: 'C',
     mainQuestions: [
       {
-        question: 'Dalam sebuah adegan kejar-kejaran, kamera bergerak mengikuti subjek dari belakang agar tetap dalam frame. Teknik ini disebut apa?',
+        question: 'Dalam sebuah adegan kejar-kejaran, kamera bergerak mengikuti subjek dari belakang agar tetap dalam frame. Teknik ini disebut ...',
         timeLimit: 10,
       },
       {
-        question: 'Reporter menggunakan layar hijau saat merekam agar latar belakang bisa diganti dengan gambar studio virtual. Teknik ini dikenal sebagai apa?',
+        question: 'Reporter menggunakan layar hijau saat merekam agar latar belakang bisa diganti dengan gambar studio virtual. Teknik ini dikenal sebagai ...',
         timeLimit: 10,
       },
       {
@@ -241,7 +241,7 @@ const questionData = [
         timeLimit: 15,
       },
       {
-        question: 'Protokol keamanan yang umum dipakai untuk melindungi jaringan Wi-Fi adalah?',
+        question: 'Protokol keamanan yang umum dipakai untuk melindungi jaringan Wi-Fi adalah...',
         timeLimit: 10,
       },
       {
@@ -257,17 +257,17 @@ const questionData = [
         timeLimit: 1,
       },
       {
-        question: 'Tipe image dalam desain grafis yang tersusun dari titik-titik (pixel) disebut apa?',
+        question: 'Tipe image dalam desain grafis yang tersusun dari titik-titik (pixel) disebut...',
         timeLimit: 10,
       },
     ],
     contentionQuestions: [
       {
-        question: 'Dalam sistem pencahayaan tiga titik, cahaya utama yang menentukan arah dan intensitas pencahayaan utama disebut apa?',
+        question: 'Dalam sistem pencahayaan tiga titik, cahaya utama yang menentukan arah dan intensitas pencahayaan utama disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Ketika dua adegan dihubungkan dengan efek memudar lembut untuk memberikan kesan transisi halus, efek ini disebut apa?',
+        question: 'Ketika dua adegan dihubungkan dengan efek memudar lembut untuk memberikan kesan transisi halus, efek ini disebut...',
         timeLimit: 10,
       },
       {
@@ -295,21 +295,21 @@ const questionData = [
         timeLimit: 10,
       },
       {
-        question: 'Fitur “End Task” digunakan untuk menghentikan paksa aplikasi yang tidak merespons. Fitur ini dapat ditemukan di mana?',
+        question: 'Fitur “End Task” digunakan untuk menghentikan paksa aplikasi yang tidak merespons. Fitur ini dapat ditemukan di...',
         timeLimit: 10,
       },
       {
-        question: 'Perangkat lunak buatan Adobe Systems yang digunakan khusus untuk mengedit foto disebut apa?',
+        question: 'Perangkat lunak buatan Adobe Systems yang digunakan khusus untuk mengedit foto disebut...',
         timeLimit: 10,
       },
     ],
     additionalQuestions: [
       {
-        question: 'Jika sutradara ingin merekam suara dari jarak jauh tanpa mendekatkan mikrofon ke talent, jenis mic apa yang paling sesuai digunakan?',
+        question: 'Jika sutradara ingin merekam suara dari jarak jauh tanpa mendekatkan mikrofon ke talent, jenis mic apa yang paling sesuai digunakan...',
         timeLimit: 10,
       },
       {
-        question: 'Untuk membuat video wawancara berdurasi singkat tanpa bagian pengulangan, editor menghapus bagian yang tidak penting. Proses ini dikenal sebagai apa?',
+        question: 'Untuk membuat video wawancara berdurasi singkat tanpa bagian pengulangan, editor menghapus bagian yang tidak penting. Proses ini dikenal sebagai ...',
         timeLimit: 10,
       },
       {
@@ -330,11 +330,11 @@ const questionData = [
     packName: 'D',
     mainQuestions: [
       {
-        question: 'Ketika fokus pengambilan gambar hanya menampilkan wajah hingga bahu talent untuk menonjolkan ekspresi emosional, jenis framing apa yang digunakan?',
+        question: 'Ketika fokus pengambilan gambar hanya menampilkan wajah hingga bahu talent untuk menonjolkan ekspresi emosional, jenis framing yang digunakan adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Dalam video tutorial, editor hanya menampilkan area tertentu di layar komputer sambil menyembunyikan bagian lain. Teknik ini disebut apa?',
+        question: 'Dalam video tutorial, editor hanya menampilkan area tertentu di layar komputer sambil menyembunyikan bagian lain. Teknik ini disebut...',
         timeLimit: 10,
       },
       {
@@ -366,17 +366,17 @@ const questionData = [
         timeLimit: 10,
       },
       {
-        question: 'Beberapa perangkat lunak editing memiliki toolbox, salah satunya Adobe Photoshop memiliki Ellipse tools. Apa fungsi dari toolbox Ellipse tools?',
+        question: 'Beberapa perangkat lunak editing memiliki toolbox, salah satunya Adobe Photoshop memiliki Ellipse tools. Fungsi dari toolbox Ellipse tools adalah ...',
         timeLimit: 10,
       },
     ],
     contentionQuestions: [
       {
-        question: 'Untuk menjaga komposisi visual agar subjek tampak proporsional dalam frame, aturan yang membagi layar menjadi sembilan bagian disebut apa?',
+        question: 'Untuk menjaga komposisi visual agar subjek tampak proporsional dalam frame, aturan yang membagi layar menjadi sembilan bagian disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Editor ingin memperlambat adegan lompatan atlet agar tampak lebih dramatis. Teknik apakah yang digunakan?',
+        question: 'Editor ingin memperlambat adegan lompatan atlet agar tampak lebih dramatis. Teknik yang digunakan adalah ...',
         timeLimit: 10,
       },
       {
@@ -392,7 +392,7 @@ const questionData = [
         timeLimit: 15,
       },
       {
-        question: 'Jika sebuah website tiba-tiba tidak bisa diakses karena dibanjiri trafik dari banyak komputer zombie, serangan apa yang sedang terjadi?',
+        question: 'Jika sebuah website tiba-tiba tidak bisa diakses karena dibanjiri trafik dari banyak komputer zombie, serangan yang sedang terjadi adalah ...',
         timeLimit: 10,
       },
       {
@@ -414,7 +414,7 @@ const questionData = [
     ],
     additionalQuestions: [
       {
-        question: 'Serangan yang memanfaatkan celah keamanan situs untuk menampilkan script berbahaya di browser pengguna disebut?',
+        question: 'Serangan yang memanfaatkan celah keamanan situs untuk menampilkan script berbahaya di browser pengguna disebut...',
         timeLimit: 10,
       },
       {
@@ -439,11 +439,11 @@ const questionData = [
     packName: 'E',
     mainQuestions: [
       {
-        question: 'Saat merekam panorama kota, kamera digerakkan secara horizontal dari kiri ke kanan. Gerakan ini disebut apa?',
+        question: 'Saat merekam panorama kota, kamera digerakkan secara horizontal dari kiri ke kanan. Gerakan ini disebut....',
         timeLimit: 10,
       },
       {
-        question: 'Seorang editor mengubah hasil video berformat MOV ke MP4 agar lebih mudah diputar di berbagai perangkat. Proses ini dinamakan apa?',
+        question: 'Seorang editor mengubah hasil video berformat MOV ke MP4 agar lebih mudah diputar di berbagai perangkat. Proses ini dinamakan ...',
         timeLimit: 10,
       },
       {
@@ -463,7 +463,7 @@ const questionData = [
         timeLimit: 10,
       },
       {
-        question: 'Kepanjangan dari NAT adalah?',
+        question: 'Kepanjangan dari NAT adalah...',
         timeLimit: 10,
       },
       {
@@ -481,11 +481,11 @@ const questionData = [
     ],
     contentionQuestions: [
       {
-        question: 'Dalam proses editing, file hasil rekaman video biasanya disimpan dalam format apa yang umum digunakan di berbagai software?',
+        question: 'Dalam proses editing, file hasil rekaman video biasanya disimpan dalam format yang umum digunakan di berbagai software adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Untuk kebutuhan distribusi audio online, format apa yang paling sering digunakan karena ukurannya kecil dan mudah diunggah? ',
+        question: 'Untuk kebutuhan distribusi audio online, format yang paling sering digunakan karena ukurannya kecil dan mudah diunggah adalah... ',
         timeLimit: 10,
       },
       {
@@ -497,7 +497,7 @@ const questionData = [
         timeLimit: 10,
       },
       {
-        question: 'Berapakah hasil perkalian 101₂ × 11₂ dalam sistem biner?',
+        question: 'Berapakah nilai terbesar yang dapat direpresentasikan dengan 6-bit?',
         timeLimit: 15,
       },
       {
@@ -517,17 +517,17 @@ const questionData = [
         timeLimit: 10,
       },
       {
-        question: 'Tata letak elemen visual dalam desain grafis disebut apa?',
+        question: 'Tata letak elemen visual dalam desain grafis disebut...',
         timeLimit: 10,
       },
     ],
     additionalQuestions: [
       {
-        question: 'Proses menggabungkan beberapa klip, menambahkan transisi, dan menyesuaikan durasi dalam software disebut apa?',
+        question: 'Proses menggabungkan beberapa klip, menambahkan transisi, dan menyesuaikan durasi dalam software disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Dalam produksi musik profesional, file audio disimpan tanpa kompresi agar kualitas tetap sempurna. Format apakah yang digunakan?',
+        question: 'Dalam produksi musik profesional, file audio disimpan tanpa kompresi agar kualitas tetap sempurna. Format yang digunakan adalah ...',
         timeLimit: 10,
       },
       {
@@ -548,11 +548,11 @@ const questionData = [
     packName: 'SM A',
     mainQuestions: [
       {
-        question: 'Jika videografer ingin memperkenalkan lokasi kejadian dalam sebuah film sebelum menampilkan karakter, jenis shot apa yang digunakan?',
+        question: 'Jika videografer ingin memperkenalkan lokasi kejadian dalam sebuah film sebelum menampilkan karakter, jenis shot yang digunakan adalah ...',
         timeLimit: 10,
       },
       {
-        question: 'Jenis kompresi yang mempertahankan seluruh kualitas asli tanpa kehilangan data disebut apa?',
+        question: 'Jenis kompresi yang mempertahankan seluruh kualitas asli tanpa kehilangan data disebut ...',
         timeLimit: 15,
       },
       {
@@ -584,7 +584,7 @@ const questionData = [
         timeLimit: 10,
       },
       {
-        question: 'Dalam desain grafis terdapat istilah yang berfungsi untuk memberikan ruang napas, fokus, dan meningkatkan keterbacaan elemen. Apa nama istilah tersebut?',
+        question: 'Dalam desain grafis terdapat istilah yang berfungsi untuk memberikan ruang napas, fokus, dan meningkatkan keterbacaan elemen. Nama istilah tersebut adalah...',
         timeLimit: 10,
       },
     ],
@@ -594,7 +594,7 @@ const questionData = [
         timeLimit: 10,
       },
       {
-        question: 'Untuk menambah kesan ruang dan pantulan pada vokal agar terdengar seperti direkam di ruangan besar, efek audio apa yang digunakan?',
+        question: 'Untuk menambah kesan ruang dan pantulan pada vokal agar terdengar seperti direkam di ruangan besar, efek audio yang digunakan adalah ...',
         timeLimit: 10,
       },
       {
@@ -614,7 +614,7 @@ const questionData = [
         timeLimit: 10,
       },
       {
-        question: 'Berapakah rentang IP private kelas A?',
+        question: 'Rentang IP private kelas A adalah ...',
         timeLimit: 10,
       },
       {
@@ -632,11 +632,11 @@ const questionData = [
     ],
     additionalQuestions: [
       {
-        question: 'SSL adalah protokol keamanan lama yang dapat dipakai untuk melindungi komunikasi internet dengan enkripsi. Apa kepanjangan dari SSL?',
+        question: 'SSL adalah protokol keamanan lama yang dapat dipakai untuk melindungi komunikasi internet dengan enkripsi. Kepanjangan dari SSL adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Berapakah rentang IP private kelas B?',
+        question: 'Rentang IP private kelas B adalah...',
         timeLimit: 10,
       },
       {
@@ -657,11 +657,11 @@ const questionData = [
     packName: 'SM B',
     mainQuestions: [
       {
-        question: 'Kamera apa yang digunakan ketika videografer membutuhkan fleksibilitas mengganti lensa sesuai kebutuhan pengambilan gambar?',
+        question: 'Kamera yang digunakan ketika videografer membutuhkan fleksibilitas mengganti lensa sesuai kebutuhan pengambilan gambar adalah...',
         timeLimit: 10,
       },
       {
-        question: ' Film asing yang menampilkan teks terjemahan di bawah layar menggunakan fitur apa?',
+        question: ' Film asing yang menampilkan teks terjemahan di bawah layar menggunakan fitur...',
         timeLimit: 10,
       },
       {
@@ -677,11 +677,11 @@ const questionData = [
         timeLimit: 15,
       },
       {
-        question: 'SSL sekarang sudah banyak digantikan oleh protokol?',
+        question: 'SSL sekarang sudah banyak digantikan oleh protokol ...',
         timeLimit: 10,
       },
       {
-        question: 'Berapakah rentang IP private kelas C?',
+        question: 'BRentang IP private kelas C adalah...',
         timeLimit: 10,
       },
       {
@@ -693,17 +693,17 @@ const questionData = [
         timeLimit: 10,
       },
       {
-        question: 'Dalam desain grafis terdapat dua format warna, yaitu RGB dan CMYK. Format warna yang digunakan untuk hasil desain cetak disebut apa?',
+        question: 'Dalam desain grafis terdapat dua format warna, yaitu RGB dan CMYK. Format warna yang digunakan untuk hasil desain cetak disebut ...',
         timeLimit: 10,
       },
     ],
     contentionQuestions: [
       {
-        question: 'Saat merekam gedung tinggi dari bawah ke atas secara vertikal, gerakan kamera yang digunakan disebut apa?',
+        question: 'Saat merekam gedung tinggi dari bawah ke atas secara vertikal, gerakan kamera yang digunakan disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Sebelum proses shooting, sutradara membuat sketsa urutan adegan sebagai panduan pengambilan gambar. Dokumen ini disebut apa?',
+        question: 'Sebelum proses shooting, sutradara membuat sketsa urutan adegan sebagai panduan pengambilan gambar. Dokumen ini disebut ...',
         timeLimit: 10,
       },
       {
@@ -719,7 +719,7 @@ const questionData = [
         timeLimit: 15,
       },
       {
-        question: 'Proses mencatat aktivitas pengguna dalam jaringan untuk keperluan keamanan disebut?',
+        question: 'Proses mencatat aktivitas pengguna dalam jaringan untuk keperluan keamanan disebut ...',
         timeLimit: 10,
       },
       {
@@ -741,11 +741,11 @@ const questionData = [
     ],
     additionalQuestions: [
       {
-        question: 'Mengapa penggunaan microphone eksternal penting dalam produksi video profesional?',
+        question: 'Penggunaan microphone eksternal penting dalam produksi video profesional karena...',
         timeLimit: 15,
       },
       {
-        question: 'Video yang dibuat untuk layar ponsel dan TV memiliki perbandingan ukuran yang berbeda. Perbandingan lebar dan tinggi ini dikenal sebagai apa?',
+        question: 'Video yang dibuat untuk layar ponsel dan TV memiliki perbandingan ukuran yang berbeda. Perbandingan lebar dan tinggi ini dikenal sebagai...',
         timeLimit: 10,
       },
       {
@@ -766,11 +766,11 @@ const questionData = [
     packName: 'SM C',
     mainQuestions: [
       {
-        question: 'Teknik pencahayaan yang membuat subjek tampak bersinar dari belakang untuk efek siluet disebut apa?',
+        question: 'Teknik pencahayaan yang membuat subjek tampak bersinar dari belakang untuk efek siluet disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Rekaman wawancara terdengar bising karena suara kipas di latar belakang. Teknik apa yang dapat digunakan untuk memperbaikinya?',
+        question: 'Rekaman wawancara terdengar bising karena suara kipas di latar belakang. Teknik yang dapat digunakan untuk memperbaikinya adalah...',
         timeLimit: 10,
       },
       {
@@ -786,7 +786,7 @@ const questionData = [
         timeLimit: 15,
       },
       {
-        question: 'Virus komputer pertama di dunia bernama?',
+        question: 'Virus komputer pertama di dunia bernama...',
         timeLimit: 10,
       },
       {
@@ -794,7 +794,7 @@ const questionData = [
         timeLimit: 15,
       },
       {
-        question: 'Berdasarkan cakupan wilayah geografisnya, apa perbedaan utama antara LAN dan WAN?',
+        question: 'Berdasarkan cakupan wilayah geografisnya, perbedaan utama antara LAN dan WAN adalah...',
         timeLimit: 10,
       },
       {
@@ -808,11 +808,11 @@ const questionData = [
     ],
     contentionQuestions: [
       {
-        question: 'Sebelum proses shooting, gambaran visual setiap adegan biasanya dibuat dalam bentuk sketsa berurutan. Istilah untuk ini adalah apa?',
+        question: 'Sebelum proses shooting, gambaran visual setiap adegan biasanya dibuat dalam bentuk sketsa berurutan. Istilah untuk ini adalah...',
         timeLimit: 10,
       },
       {
-        question: 'Dalam rekaman musik, sistem dua saluran suara kanan dan kiri digunakan untuk memberikan kesan arah suara. Sistem ini disebut apa?',
+        question: 'Dalam rekaman musik, sistem dua saluran suara kanan dan kiri digunakan untuk memberikan kesan arah suara. Sistem ini disebut...',
         timeLimit: 10,
       },
       {
@@ -844,21 +844,21 @@ const questionData = [
         timeLimit: 10,
       },
       {
-        question: 'Jenis keseimbangan visual yang memiliki susunan elemen sama di kedua sisi disebut apa?',
+        question: 'Jenis keseimbangan visual yang memiliki susunan elemen sama di kedua sisi disebut ...',
         timeLimit: 10,
       },
     ],
     additionalQuestions: [
       {
-        question: 'Jalur rahasia yang dibuat untuk akses ilegal ke dalam ssstem biasanya disebut dengan?',
+        question: 'Jalur rahasia yang dibuat untuk akses ilegal ke dalam ssstem biasanya disebut...',
         timeLimit: 10,
       },
       {
-        question: 'Berapa panjang bit dari IPv4?',
+        question: 'Rentang IP private kelas C adalah...',
         timeLimit: 15,
       },
       {
-        question: 'Mengapa instalasi jaringan komputer dengan topologi mesh (penuh) jarang diimplementasikan secara praktis?',
+        question: 'Instalasi jaringan komputer dengan topologi mesh (penuh) jarang diimplementasikan secara praktis karena...',
         timeLimit: 10,
       },
       {
@@ -871,8 +871,117 @@ const questionData = [
       },
     ],
   },
+  {
+    packName: 'SM D',
+    mainQuestions: [
+      {
+        question: 'Kamera bergerak sejajar dengan subjek yang berjalan di sampingnya untuk menjaga komposisi tetap stabil. Teknik ini disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Untuk menambahkan efek pantulan buatan yang menciptakan gema singkat, efek yang digunakan adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Jenis kamera digital modern yang tidak menggunakan mekanisme cermin dan pentaprisma seperti DSLR, sehingga ukurannya lebih ringkas dan ringan, disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Meskipun tidak menjadi nama resmi, era komputer generasi kelima sering diasosiasikan dengan kemunculan mikroprosesor canggih dari Intel yang sangat populer, yaitu seri...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Hitunglah (1010₂ + 0110₂) dalam sistem desimal!',
+        timeLimit: 15,
+      },
+      {
+        question: 'Celah keamanan yang baru ditemukan dan belum ada patch/perbaikan resmi disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Alamat IP yang digunakan untuk mengirim informasi ke semua perangkat yang terhubung ke jaringan komputer adalah definisi dari...?',
+        timeLimit: 10,
+      },
+      {
+        question: 'Jika sebuah sekolah ingin membangun jaringan LAN agar bisa berbagi dan mengakses layanan internet dari luar, perangkat jaringan tambahan utama yang diperlukan adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Kemampuan sistem operasi untuk menjalankan beberapa program atau aplikasi secara bersamaan dalam satu waktu disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Lapisan-lapisan yang digunakan untuk menempatkan elemen-elemen desain secara terpisah dalam sebuah file disebut...',
+        timeLimit: 10,
+      },
+    ],
+    contentionQuestions: [
+      {
+        question: 'Jika seorang videografer ingin menghasilkan latar belakang yang buram (bokeh), pengaturan kamera apa yang harus diubah adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Dalam pengeditan cepat seperti vlog, klip-klip disusun secara langsung tanpa efek transisi. Teknik ini disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Mode pemotretan di mana fotografer memiliki kontrol penuh atas tiga elemen exposure (Aperture, Shutter Speed, dan ISO) disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Walaupun belum terdefinisi secara resmi, arah pengembangan komputer generasi keenam (masa depan) diprediksi akan berfokus pada teknologi seperti Parallel Computing, Quantum Computing, dan...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Berapa banyak bit yang diperlukan untuk merepresentasikan bilangan desimal 31?',
+        timeLimit: 15,
+      },
+      {
+        question: 'Enkripsi asimetris menggunakan sepasang kunci berbeda untuk mengenkripsi dan mendekripsi pesan. Dua kunci tersebut adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Perangkat jaringan yang berfungsi untuk menghubungkan dua atau lebih jaringan komputer yang berbeda adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Perangkat jaringan yang dibutuhkan siswa untuk menghubungkan laptopnya secara nirkabel (wireless) ke jaringan kabel sekolah adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Penyimpanan data yang sering diakses pada memori berkecepatan tinggi disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Sebuah desain sederhana dengan elemen-elemen yang minim dan terbatas, disebut dengan...',
+        timeLimit: 10,
+      },
+    ],
+    additionalQuestions: [
+      {
+        question: 'Fitur Wi-Fi yang menyembunyikan nama jaringan (SSID) disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Proses memilih jalur sepanjang data dapat ditransfer dari sumber ke tujuan merupakan definisi dari...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Untuk menjembatani dan menghubungkan jaringan LAN sekolah dengan jaringan penyedia layanan internet (ISP), perangkat yang mutlak dibutuhkan adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Situasi di mana dua atau lebih proses saling menunggu sumber daya yang sedang digunakan oleh proses lain, sehingga tidak ada yang dapat melanjutkan eksekusinya disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Sebuah software memiliki format export AI. Software yang menggunakan format tersebut adalah...',
+        timeLimit: 10,
+      },
+    ],
+  },
     {
-    packName: 'FINAL',
+    packName: 'FINAL A',
     mainQuestions: [
       {
         question: 'Dalam sebuah desain poster memiliki teks. Jarak antar baris dalam teks disebut...',
@@ -891,7 +1000,7 @@ const questionData = [
         timeLimit: 10,
       },
       {
-        question: 'IDS merupakan sistem keamanan jaringan yang memantau dan mendeteksi aktivitas mencurigakan, biasanya dipasang di server. Apa kepanjangan dari IDS?',
+        question: 'IDS merupakan sistem keamanan jaringan yang memantau dan mendeteksi aktivitas mencurigakan, biasanya dipasang di server. Kepanjangan dari IDS adalah...',
         timeLimit: 10,
       },
       {
@@ -911,13 +1020,13 @@ const questionData = [
         timeLimit: 10,
       },
       {
-        question: 'Saat merekam di luar ruangan dengan cahaya matahari sangat terang, alat apa yang dipasang di depan lensa untuk mengurangi intensitas cahaya?',
+        question: 'Saat merekam di luar ruangan dengan cahaya matahari sangat terang, alat yang dipasang di depan lensa untuk mengurangi intensitas cahaya adalah ...',
         timeLimit: 10,
       },
     ],
     contentionQuestions: [
       {
-        question: 'Sebuah software memiliki format export SVG. Apa kepanjangan dari SVG ?',
+        question: 'Sebuah software memiliki format export SVG. Kepanjangan dari SVG adalah ...',
         timeLimit: 10,
       },
       {
@@ -953,7 +1062,7 @@ const questionData = [
         timeLimit: 10,
       },
       {
-        question: 'Dalam wawancara, microphone kecil yang ditempel di pakaian talent agar suara tetap jelas disebut apa?',
+        question: 'Dalam wawancara, microphone kecil yang ditempel di pakaian talent agar suara tetap jelas disebut...',
         timeLimit: 10,
       },
     ],
@@ -967,7 +1076,7 @@ const questionData = [
         timeLimit: 15,
       },
       {
-        question: 'Prinsip CIA dalam keamanan informasi terdiri dari apa saja?',
+        question: 'Prinsip CIA dalam keamanan informasi terdiri dari...',
         timeLimit: 10,
       },
       {
@@ -975,7 +1084,7 @@ const questionData = [
         timeLimit: 15,
       },
       {
-        question: 'Jenis jaringan yang ideal dipilih oleh teknisi yang ingin membuat jaringan sederhana tanpa server terpusat, di mana semua komputer memiliki status setara?',
+        question: 'Jenis jaringan yang ideal dipilih oleh teknisi yang ingin membuat jaringan sederhana tanpa server terpusat, semua komputer memiliki status setara di...',
         timeLimit: 10,
       },
     ],
