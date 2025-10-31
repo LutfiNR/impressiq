@@ -984,6 +984,115 @@ const questionData = [
     packName: 'FINAL A',
     mainQuestions: [
       {
+        question: 'Jarak fokus terdekat di mana lensa dapat difokuskan, dan pada jarak tersebut, setiap objek yang terletak pada jarak itu hingga tak terhingga akan tampak tajam, disebut jarak...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Standar sudut rana (shutter angle) yang paling umum direkomendasikan untuk menghasilkan motion blur sinematik yang paling alami adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Filter audio yang spesifik digunakan untuk mengatur level frekuensi tertentu misalnya menaikkan bass atau menurunkan treble dalam campuran suara adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Teknik pemrosesan instruksi pada CPU di mana instruksi dipecah menjadi beberapa tahap dan instruksi berikutnya dimulai sebelum instruksi sebelumnya selesai, dikenal sebagai...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Komputer mini mini-computer 12-bit pertama yang sukses secara komersial, dirilis oleh Digital Equipment Corporation DEC pada tahun 1964, adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Metode transmisi data jaringan di mana paket dikirim dari satu host sumber ke satu host tujuan spesifik, berlawanan dengan broadcast, disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Berapakah Broadcast Address untuk IP 172.16.10.10 dengan Subnet Mask /22?',
+        timeLimit: 15,
+      },
+      {
+        question: 'Jenis serangan web yang memungkinkan penyerang menyuntikkan skrip berbahaya (biasanya JavaScript) ke dalam website yang dilihat oleh pengguna lain, adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Istilah dalam tipografi yang mengacu pada penyesuaian jarak secara horizontal di antara semua huruf dalam satu blok teks secara keseluruhan adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Berapakah hasil operasi logika NOT dari bilangan heksadesimal F0 dalam representasi 8-bit?',
+        timeLimit: 15,
+      },
+    ],
+    contentionQuestions: [
+      {
+        question: 'Rentang alamat IP yang dialokasikan untuk transmisi multicast dan tidak dapat ditetapkan ke host tunggal adalah Kelas ...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Teknik yang digunakan oleh penyerang untuk menghindari atau melompati mekanisme keamanan, seperti otentikasi atau firewall, untuk mendapatkan akses yang tidak sah ke sistem adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Algoritma enkripsi simetris yang merupakan standar enkripsi yang paling umum dan aman saat ini, menggantikan pendahulunya DES, adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Sekelompok prinsip psikologi visual yang menjelaskan bagaimana mata manusia secara alami mengorganisir elemen visual menjadi keseluruhan yang koheren, dikenal sebagai Prinsip...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Teknologi yang memungkinkan kabel Ethernet UTP mentransmisikan daya listrik sekaligus data ke perangkat jaringan disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Struktur data dalam file system Unix/Linux yang menyimpan semua metadata tentang file kecuali nama file itu sendiri adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Mode pemindaian gambar video yang menangkap setiap frame secara berurutan full frame sekaligus, berlawanan dengan metode interlaced yang memindai garis ganjil dan genap secara bergantian, disebut pemindaian...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Bukaan diafragma yang nilainya dua kali lebih banyak memasukkan cahaya dibandingkan f/8 adalah f/...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Jumlah data per detik diukur dalam kbps atau Mbps yang digunakan untuk mengkodekan informasi video dan audio, yang sangat memengaruhi kualitas serta ukuran file akhir, disebut...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Hitunglah hasil operasi logika OR Disjungsi dari bilangan biner 1010 dan 0110!',
+        timeLimit: 15,
+      },
+    ],
+    additionalQuestions: [
+      {
+        question: 'Dua tokoh di Dartmouth College yang menciptakan bahasa pemrograman BASIC pada tahun 1964 adalah John Kemeny dan...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Protokol akses media yang digunakan pada jaringan Ethernet LAN untuk menghindari tabrakan data kolisi dan mendeteksi jika terjadi tabrakan adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Kelas alamat IP yang memiliki Network ID yang mencakup 16 bit pertama dari alamat IP /16 adalah kelas...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Mesin hitung mekanik yang dirancang oleh Charles Babbage yang mencakup unit store memori, unit mill pemrosesan, dan perangkat input/output, adalah...',
+        timeLimit: 10,
+      },
+      {
+        question: 'Titik-titik pada timeline yang digunakan untuk menentukan kapan suatu properti misalnya posisi, skala, atau opasitas dari objek video atau audio akan berubah nilainya adalah...',
+        timeLimit: 10,
+      },
+    ],
+  },
+  {
+    packName: 'FINAL B',
+    mainQuestions: [
+      {
         question: 'Dalam sebuah desain poster memiliki teks. Jarak antar baris dalam teks disebut...',
         timeLimit: 10,
       },
@@ -1084,7 +1193,7 @@ const questionData = [
         timeLimit: 15,
       },
       {
-        question: 'Jenis jaringan yang ideal dipilih oleh teknisi yang ingin membuat jaringan sederhana tanpa server terpusat, semua komputer memiliki status setara di...',
+        question: 'Jenis jaringan yang ideal dipilih oleh teknisi yang ingin membuat jaringan sederhana tanpa server terpusat, semua komputer memiliki status setara adalah...',
         timeLimit: 10,
       },
     ],
